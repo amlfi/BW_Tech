@@ -34,6 +34,8 @@ _Getting started with the Technical Wiki_
   Landing page with overview of the wiki's purpose and importance
 * **1.2 About this Wiki**\
   How to use this resource, navigation, and update procedures
+* **1.3 Wiki Structure and Outline**\
+  Complete breakdown of wiki chapters and organization for quick navigation
 
 #### 2. Venue
 
