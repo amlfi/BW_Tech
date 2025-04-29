@@ -4,6 +4,7 @@
 
 * [Welcome](README.md)
 * [About](1.-intro/about.md)
+* [Outline](1.-intro/outline.md)
 
 ## 2. Venue
 
