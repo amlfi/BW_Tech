@@ -2,8 +2,6 @@
 icon: book
 ---
 
-# BW Technical Wiki - Revised Structure
-
 ## Overview
 
 This document outlines the complete chapter and section structure for the Bluey's World Technical Wiki. The structure follows a logical organization beginning with introductory materials, proceeding through venue details, daily operations and show execution, emergency procedures, and culminating with detailed technical systems documentation and reference materials.
