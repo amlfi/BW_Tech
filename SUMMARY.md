@@ -26,19 +26,16 @@
 
 * [6.1 Audio](6.-systems/6.1-audio/README.md)
   * [Page 9](6.-systems/6.1-audio/page-9.md)
-
-***
-
-* [6.2 Electrical](6.2-electrical.md)
-* [6.3 Lighting](6.3-lighting.md)
-* [6.4 Networking](6.4-networking.md)
-* [6.5 Rigging](6.5-rigging.md)
-* [6.6 Show Control](6.6-show-control.md)
-* [6.7 Video](6.7-video.md)
-* [6.8 CCTV](6.8-cctv.md)
-* [6.9 Comms](6.9-comms.md)
-* [6.10 Emergency](6.10-emergency.md)
-* [6.11 Venue Tech.](6.11-venue-tech..md)
+* [6.2 Electrical](6.-systems/6.2-electrical.md)
+* [6.3 Lighting](6.-systems/6.3-lighting.md)
+* [6.4 Networking](6.-systems/6.4-networking.md)
+* [6.5 Rigging](6.-systems/6.5-rigging.md)
+* [6.6 Show Control](6.-systems/6.6-show-control.md)
+* [6.7 Video](6.-systems/6.7-video.md)
+* [6.8 CCTV](6.-systems/6.8-cctv.md)
+* [6.9 Comms](6.-systems/6.9-comms.md)
+* [6.10 Emergency](6.-systems/6.10-emergency.md)
+* [6.11 Venue Tech.](6.-systems/6.11-venue-tech..md)
 
 ## Maintenance
 
