@@ -25,7 +25,13 @@
 ## 6. Systems
 
 * [6.1 Audio](6.-systems/6.1-audio/README.md)
-  * [Page 9](6.-systems/6.1-audio/page-9.md)
+  * [6.1.1 Architecture](6.-systems/6.1-audio/page-9.md)
+  * [6.1.2 Inventory](6.-systems/6.1-audio/6.1.2-inventory.md)
+  * [6.1.3 Operation](6.-systems/6.1-audio/6.1.3-operation.md)
+  * [6.1.4 Software](6.-systems/6.1-audio/6.1.4-software.md)
+  * [6.1.5 Troubleshooting](6.-systems/6.1-audio/6.1.5-troubleshooting.md)
+  * [6.1.6 Maintenance](6.-systems/6.1-audio/6.1.6-maintenance.md)
+  * [6.1.7. Documentation](6.-systems/6.1-audio/6.1.7.-documentation.md)
 * [6.2 Electrical](6.-systems/6.2-electrical.md)
 * [6.3 Lighting](6.-systems/6.3-lighting.md)
 * [6.4 Networking](6.-systems/6.4-networking.md)
