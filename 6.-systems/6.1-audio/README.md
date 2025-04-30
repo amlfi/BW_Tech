@@ -10,6 +10,8 @@ icon: speaker
 
 ### System Overview
 
+<table data-column-title-hidden data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr><tr><td></td></tr></tbody></table>
+
 Bluey's World audio infrastructure comprises:
 
 * **Show Audio** - High-impact playback for primary attractions
