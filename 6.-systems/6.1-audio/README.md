@@ -4,22 +4,24 @@ description: >-
   the guest experience. This documentation serves as the technical reference for
   all audio within the experience.
 icon: speaker
+cover: >-
+  https://images.unsplash.com/photo-1618609377864-68609b857e90?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxhdWRpb3xlbnwwfHx8fDE3NDU5OTQ1NDF8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# 6.1 Audio
+# 6.1 / Audio
 
-### System Overview
-
-<table data-column-title-hidden data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr><tr><td></td></tr></tbody></table>
-
-Bluey's World audio infrastructure comprises:
-
-* **Show Audio** - High-impact playback for primary attractions
-* **Ambient Sound** - Themed background audio across all spaces
-* **Announcements** - Public address and operational messaging
-* **Communications** - Technical staff coordination systems
-* **Distribution** - Networked audio transport and routing
-
-{% hint style="info" %}
-All audio systems operate during venue hours and require daily verification to maintain performance standards.
-{% endhint %}
