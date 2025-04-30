@@ -25,7 +25,7 @@
 ## 6. Systems
 
 * [6.1 Audio](6.-systems/6.1-audio/README.md)
-  * [6.1.1 Architecture](6.-systems/6.1-audio/page-9.md)
+  * [6.1.1 Architecture](6.-systems/6.1-audio/6.1.1-architecture.md)
   * [6.1.2 Inventory](6.-systems/6.1-audio/6.1.2-inventory.md)
   * [6.1.3 Operation](6.-systems/6.1-audio/6.1.3-operation.md)
   * [6.1.4 Software](6.-systems/6.1-audio/6.1.4-software.md)
