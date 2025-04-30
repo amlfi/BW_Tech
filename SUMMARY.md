@@ -37,24 +37,21 @@
 * [6.10 Emergency](6.-systems/6.10-emergency.md)
 * [6.11 Venue Tech.](6.-systems/6.11-venue-tech..md)
 
-## Maintenance
+## 7. Maintenance
 
-* [Page 6](maintenance/page-6.md)
+* [Page 6](7.-maintenance/page-6.md)
 
-## Library
+## 8. Library
 
-* [Page 7](library/page-7.md)
+* [Page 7](8.-library/page-7.md)
 
-## Getting Started
+## z\_Sample
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
-
-## Basics
-
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Quickstart](z_sample/quickstart.md)
+* [Publish your docs](z_sample/publish-your-docs.md)
+* [Editor](z_sample/editor.md)
+* [Markdown](z_sample/markdown.md)
+* [Images & media](z_sample/images-and-media.md)
+* [Interactive blocks](z_sample/interactive-blocks.md)
+* [OpenAPI](z_sample/openapi.md)
+* [Integrations](z_sample/integrations.md)
