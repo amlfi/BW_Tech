@@ -1,6 +1,6 @@
 ---
 icon: book
-cover: ../.gitbook/assets/BlueysWorld\_KeyArt\_BG\_Render\_Extended.png
+cover: ../.gitbook/assets/BlueysWorld_KeyArt_BG_Render_Extended.png
 coverY: 0
 layout:
   cover:
