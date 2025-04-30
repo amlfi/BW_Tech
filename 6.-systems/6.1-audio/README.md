@@ -1,8 +1,8 @@
 ---
 description: >-
   The audio systems at Bluey's World create immersive soundscapes essential to
-  the guest experience. This documentation serves as the definitive technical
-  reference for all audio subsystems throughout t
+  the guest experience. This documentation serves as the technical reference for
+  all audio within the experience.
 icon: speaker
 ---
 
