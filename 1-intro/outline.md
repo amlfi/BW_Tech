@@ -172,7 +172,7 @@ _Detailed documentation of all venue technical systems_
 **Core Show Systems**
 
 * **6.1 Audio Systems**\
-  &#xNAN;_&#x53;ound reinforcement and playback systems throughout the venue_
+  \&#xNAN;_Sound reinforcement and playback systems throughout the venue_
   * _6.1.1 System Overview_\
     Introduction to the audio system's purpose and components
   * _6.1.2 System Architecture_\
@@ -190,7 +190,7 @@ _Detailed documentation of all venue technical systems_
   * _6.1.8 System Documentation_\
     Technical reference materials specific to the audio system
 * **6.2 Electrical Systems**\
-  &#xNAN;_&#x50;ower distribution for both show and venue systems_
+  \&#xNAN;_Power distribution for both show and venue systems_
   * _6.2.1 System Overview_\
     Introduction to the electrical system's purpose and components
   * _6.2.2 System Architecture_\
@@ -208,7 +208,7 @@ _Detailed documentation of all venue technical systems_
   * _6.2.8 System Documentation_\
     Technical reference materials specific to the electrical system
 * **6.3 Lighting Systems**\
-  &#xNAN;_&#x50;erformance and architectural lighting throughout the venue_
+  \&#xNAN;_Performance and architectural lighting throughout the venue_
   * _6.3.1 System Overview_\
     Introduction to the lighting system's purpose and components
   * _6.3.2 System Architecture_\
@@ -226,7 +226,7 @@ _Detailed documentation of all venue technical systems_
   * _6.3.8 System Documentation_\
     Technical reference materials specific to the lighting system
 * **6.4 Networking Infrastructure**\
-  &#xNAN;_&#x49;T network supporting all technical systems_
+  \&#xNAN;_IT network supporting all technical systems_
   * _6.4.1 System Overview_\
     Introduction to the network infrastructure's purpose and components
   * _6.4.2 System Architecture_\
@@ -244,7 +244,7 @@ _Detailed documentation of all venue technical systems_
   * _6.4.8 System Documentation_\
     Technical reference materials specific to the network infrastructure
 * **6.5 Rigging Systems**\
-  &#xNAN;_&#x4F;verhead suspension systems for technical equipment_
+  \&#xNAN;_Overhead suspension systems for technical equipment_
   * _6.5.1 System Overview_\
     Introduction to the rigging system's purpose and components
   * _6.5.2 System Architecture_\
@@ -262,7 +262,7 @@ _Detailed documentation of all venue technical systems_
   * _6.5.8 System Documentation_\
     Technical reference materials specific to the rigging system
 * **6.6 Show Control**\
-  &#xNAN;_&#x50;rimary show operation system that controls and sequences show elements_
+  \&#xNAN;_Primary show operation system that controls and sequences show elements_
   * _6.6.1 System Overview_\
     Introduction to the show control system's purpose and components
   * _6.6.2 System Architecture_\
@@ -280,7 +280,7 @@ _Detailed documentation of all venue technical systems_
   * _6.6.8 System Documentation_\
     Technical reference materials specific to the show control system
 * **6.7 Video Systems**\
-  &#xNAN;_&#x50;rojection LED and content playback systems_
+  \&#xNAN;_Projection LED and content playback systems_
   * _6.7.1 System Overview_\
     Introduction to the video system's purpose and components
   * _6.7.2 System Architecture_\
@@ -300,8 +300,8 @@ _Detailed documentation of all venue technical systems_
 
 **Supporting Systems**
 
-* **6.8 CCTV and Security**\
-  &#xNAN;_&#x53;urveillance and security technology systems_
+* **6.8 Security and CCTV**\
+  \&#xNAN;_Surveillance and security technology systems_
   * _6.8.1 System Overview_\
     Introduction to the CCTV and security system's purpose and components
   * _6.8.2 System Architecture_\
@@ -319,7 +319,7 @@ _Detailed documentation of all venue technical systems_
   * _6.8.8 System Documentation_\
     Technical reference materials specific to the CCTV and security system
 * **6.9 Communication Systems**\
-  &#xNAN;_&#x54;eam communication infrastructure including radios and intercoms_
+  \&#xNAN;_Team communication infrastructure including radios and intercoms_
   * _6.9.1 System Overview_\
     Introduction to the communication system's purpose and components
   * _6.9.2 System Architecture_\
@@ -337,7 +337,7 @@ _Detailed documentation of all venue technical systems_
   * _6.9.8 System Documentation_\
     Technical reference materials specific to the communication system
 * **6.10 Emergency Systems**\
-  &#xNAN;_&#x53;afety systems for emergency situations_
+  \&#xNAN;_Safety systems for emergency situations_
   * _6.10.1 System Overview_\
     Introduction to the emergency system's purpose and components
   * _6.10.2 System Architecture_\
@@ -365,7 +365,7 @@ _Detailed documentation of all venue technical systems_
   * _6.10.13 Evacuation systems_\
     Systems supporting safe evacuation of the venue
 * **6.11 Venue-Wide Technology**\
-  &#xNAN;_&#x4E;on-show technical systems supporting venue operations_
+  \&#xNAN;_Non-show technical systems supporting venue operations_
   * _6.11.1 System Overview_\
     Introduction to the venue-wide technology's purpose and components
   * _6.11.2 System Architecture_\
