@@ -182,10 +182,7 @@ This document outlines the complete chapter and section structure for the Bluey'
     Post-incident communication guidelines
 </details>
 
-<details>
-<summary><strong>6. Systems</strong><em> - Detailed documentation of all venue technical systems</em></summary>
-
-#### Core Show Systems
+## 6. Systems - Detailed documentation of all venue technical systems
 
 <details>
 <summary><strong>6.1 Audio</strong><em> - Sound reinforcement and playback systems throughout the venue</em></summary>
@@ -410,8 +407,6 @@ This document outlines the complete chapter and section structure for the Bluey'
   Technical reference materials and specifications
 </details>
 
-#### Supporting Systems
-
 <details>
 <summary><strong>6.8 Comms</strong><em> - Team communication infrastructure including radios and intercoms</em></summary>
 
@@ -548,7 +543,6 @@ This document outlines the complete chapter and section structure for the Bluey'
   Regular maintenance requirements and procedures
 - *6.11.7 Documentation*  
   Technical reference materials and specifications
-</details>
 </details>
 
 <details>
