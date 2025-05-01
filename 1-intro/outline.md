@@ -26,8 +26,8 @@ This document outlines the complete chapter and section structure for the Bluey'
 
 ## Chapter Structure
 
-### 1. Introduction
-*Getting started with the Technical Wiki*
+<details>
+<summary><strong>1. Introduction</strong><em> - Getting started with the Technical Wiki</em></summary>
 
 - **1.1 Welcome**  
   Landing page with overview of the wiki's purpose and importance
@@ -37,9 +37,10 @@ This document outlines the complete chapter and section structure for the Bluey'
 
 - **1.3 Wiki Structure and Outline**  
   Complete breakdown of wiki chapters and organization for quick navigation
+</details>
 
-### 2. Venue
-*Information about the physical venue and its infrastructure*
+<details>
+<summary><strong>2. Venue</strong><em> - Information about the physical venue and its infrastructure</em></summary>
 
 - **2.1 Venue overview and map**  
   High-level overview of the venue layout
@@ -58,9 +59,10 @@ This document outlines the complete chapter and section structure for the Bluey'
 
 - **2.6 Key contacts and escalation paths**  
   Contact information and when to escalate technical issues
+</details>
 
-### 3. Day to Day
-*Standard daily technical procedures for venue operation*
+<details>
+<summary><strong>3. Day to Day</strong><em> - Standard daily technical procedures for venue operation</em></summary>
 
 - **3.1 Venue opening procedures**  
   Step-by-step guide for powering up and preparing technical systems
@@ -76,9 +78,10 @@ This document outlines the complete chapter and section structure for the Bluey'
 
 - **3.5 Technical startup/shutdown checklists**  
   Standard checklists for consistent daily operations
+</details>
 
-### 4. The Show
-*Procedures for show execution across different show versions*
+<details>
+<summary><strong>4. The Show</strong><em> - Procedures for show execution across different show versions</em></summary>
 
 - **4.1 General Show Information**  
   Universal show information applicable to all show versions
@@ -114,9 +117,10 @@ This document outlines the complete chapter and section structure for the Bluey'
     Detailed overview of all changes from the previous version
   - *4.3.4 Transition plan*  
     Procedures for transitioning between show versions
+</details>
 
-### 5. Emergency
-*Procedures for managing emergencies and technical issues*
+<details>
+<summary><strong>5. Emergency</strong><em> - Procedures for managing emergencies and technical issues</em></summary>
 
 - **5.1 Emergency Management Principles**  
   Overarching approach to managing emergencies
@@ -176,355 +180,379 @@ This document outlines the complete chapter and section structure for the Bluey'
     Process for reviewing and learning from incidents
   - *5.5.4 Communication protocols*  
     Post-incident communication guidelines
+</details>
 
-### 6. Systems
-*Detailed documentation of all venue technical systems*
+<details>
+<summary><strong>6. Systems</strong><em> - Detailed documentation of all venue technical systems</em></summary>
 
 #### Core Show Systems
 
-- **6.1 Audio**  
-  *Sound reinforcement and playback systems throughout the venue*
-  - *6.1.1 Architecture*  
-    Technical design, signal flow, and system diagrams
-  - *6.1.2 Inventory*  
-    Comprehensive list of components, specifications, and locations
-  - *6.1.3 Operation*  
-    Procedures for system operation
-    - 6.1.3.1 Start Up
-    - 6.1.3.2 During Show
-    - 6.1.3.3 Shut Down
-    - 6.1.3.4 Common Tasks
-    - 6.1.3.5 Troubleshooting
-  - *6.1.4 Software*  
-    Software applications, configurations, and interfaces
-    - 6.1.4.1 Dante
-      - 6.1.4.1.1 Start Up
-      - 6.1.4.1.2 During Show
-      - 6.1.4.1.3 Shut Down
-      - 6.1.4.1.4 Common Tasks
-      - 6.1.4.1.5 Troubleshooting
-    - 6.1.4.2 qLab
-  - *6.1.5 Troubleshooting*  
-    Common issues, diagnostic procedures, and solutions
-  - *6.1.6 Maintenance*  
-    Regular maintenance requirements and procedures
-  - *6.1.7 Documentation*  
-    Technical reference materials and specifications
+<details>
+<summary><strong>6.1 Audio</strong><em> - Sound reinforcement and playback systems throughout the venue</em></summary>
 
-- **6.2 Electrical**  
-  *Power distribution for both show and venue systems*
-  - *6.2.1 Architecture*  
-    Technical design, signal flow, and system diagrams
-  - *6.2.2 Inventory*  
-    Comprehensive list of components, specifications, and locations
-  - *6.2.3 Operation*  
-    Procedures for system operation
-    - 6.2.3.1 Start Up
-    - 6.2.3.2 During Show
-    - 6.2.3.3 Shut Down
-    - 6.2.3.4 Common Tasks
-    - 6.2.3.5 Troubleshooting
-  - *6.2.4 Software*  
-    Software applications, configurations, and interfaces
-    - 6.2.4.1 Power Monitoring
-      - 6.2.4.1.1 Start Up
-      - 6.2.4.1.2 During Show
-      - 6.2.4.1.3 Shut Down
-      - 6.2.4.1.4 Common Tasks
-      - 6.2.4.1.5 Troubleshooting
-  - *6.2.5 Troubleshooting*  
-    Common issues, diagnostic procedures, and solutions
-  - *6.2.6 Maintenance*  
-    Regular maintenance requirements and procedures
-  - *6.2.7 Documentation*  
-    Technical reference materials and specifications
+- *6.1.1 Architecture*  
+  Technical design, signal flow, and system diagrams
+- *6.1.2 Inventory*  
+  Comprehensive list of components, specifications, and locations
+- *6.1.3 Operation*  
+  Procedures for system operation
+  - 6.1.3.1 Start Up
+  - 6.1.3.2 During Show
+  - 6.1.3.3 Shut Down
+  - 6.1.3.4 Common Tasks
+  - 6.1.3.5 Troubleshooting
+- *6.1.4 Software*  
+  Software applications, configurations, and interfaces
+  - 6.1.4.1 Dante
+    - 6.1.4.1.1 Start Up
+    - 6.1.4.1.2 During Show
+    - 6.1.4.1.3 Shut Down
+    - 6.1.4.1.4 Common Tasks
+    - 6.1.4.1.5 Troubleshooting
+  - 6.1.4.2 qLab
+- *6.1.5 Troubleshooting*  
+  Common issues, diagnostic procedures, and solutions
+- *6.1.6 Maintenance*  
+  Regular maintenance requirements and procedures
+- *6.1.7 Documentation*  
+  Technical reference materials and specifications
+</details>
 
-- **6.3 Lighting**  
-  *Performance and architectural lighting throughout the venue*
-  - *6.3.1 Architecture*  
-    Technical design, signal flow, and system diagrams
-  - *6.3.2 Inventory*  
-    Comprehensive list of components, specifications, and locations
-  - *6.3.3 Operation*  
-    Procedures for system operation
-    - 6.3.3.1 Start Up
-    - 6.3.3.2 During Show
-    - 6.3.3.3 Shut Down
-    - 6.3.3.4 Common Tasks
-    - 6.3.3.5 Troubleshooting
-  - *6.3.4 Software*  
-    Software applications, configurations, and interfaces
-    - 6.3.4.1 ETC EOS
-      - 6.3.4.1.1 Start Up
-      - 6.3.4.1.2 During Show
-      - 6.3.4.1.3 Shut Down
-      - 6.3.4.1.4 Common Tasks
-      - 6.3.4.1.5 Troubleshooting
-  - *6.3.5 Troubleshooting*  
-    Common issues, diagnostic procedures, and solutions
-  - *6.3.6 Maintenance*  
-    Regular maintenance requirements and procedures
-  - *6.3.7 Documentation*  
-    Technical reference materials and specifications
+<details>
+<summary><strong>6.2 Electrical</strong><em> - Power distribution for both show and venue systems</em></summary>
 
-- **6.4 Networking**  
-  *IT network supporting all technical systems*
-  - *6.4.1 Architecture*  
-    Technical design, signal flow, and system diagrams
-  - *6.4.2 Inventory*  
-    Comprehensive list of components, specifications, and locations
-  - *6.4.3 Operation*  
-    Procedures for system operation
-    - 6.4.3.1 Start Up
-    - 6.4.3.2 During Show
-    - 6.4.3.3 Shut Down
-    - 6.4.3.4 Common Tasks
-    - 6.4.3.5 Troubleshooting
-  - *6.4.4 Software*  
-    Software applications, configurations, and interfaces
-    - 6.4.4.1 Network Management
-      - 6.4.4.1.1 Start Up
-      - 6.4.4.1.2 During Show
-      - 6.4.4.1.3 Shut Down
-      - 6.4.4.1.4 Common Tasks
-      - 6.4.4.1.5 Troubleshooting
-  - *6.4.5 Troubleshooting*  
-    Common issues, diagnostic procedures, and solutions
-  - *6.4.6 Maintenance*  
-    Regular maintenance requirements and procedures
-  - *6.4.7 Documentation*  
-    Technical reference materials and specifications
+- *6.2.1 Architecture*  
+  Technical design, signal flow, and system diagrams
+- *6.2.2 Inventory*  
+  Comprehensive list of components, specifications, and locations
+- *6.2.3 Operation*  
+  Procedures for system operation
+  - 6.2.3.1 Start Up
+  - 6.2.3.2 During Show
+  - 6.2.3.3 Shut Down
+  - 6.2.3.4 Common Tasks
+  - 6.2.3.5 Troubleshooting
+- *6.2.4 Software*  
+  Software applications, configurations, and interfaces
+  - 6.2.4.1 Power Monitoring
+    - 6.2.4.1.1 Start Up
+    - 6.2.4.1.2 During Show
+    - 6.2.4.1.3 Shut Down
+    - 6.2.4.1.4 Common Tasks
+    - 6.2.4.1.5 Troubleshooting
+- *6.2.5 Troubleshooting*  
+  Common issues, diagnostic procedures, and solutions
+- *6.2.6 Maintenance*  
+  Regular maintenance requirements and procedures
+- *6.2.7 Documentation*  
+  Technical reference materials and specifications
+</details>
 
-- **6.5 Rigging**  
-  *Overhead suspension systems for technical equipment*
-  - *6.5.1 Architecture*  
-    Technical design, signal flow, and system diagrams
-  - *6.5.2 Inventory*  
-    Comprehensive list of components, specifications, and locations
-  - *6.5.3 Operation*  
-    Procedures for system operation
-    - 6.5.3.1 Start Up
-    - 6.5.3.2 During Show
-    - 6.5.3.3 Shut Down
-    - 6.5.3.4 Common Tasks
-    - 6.5.3.5 Troubleshooting
-  - *6.5.4 Software*  
-    Software applications, configurations, and interfaces
-    - 6.5.4.1 Motor Control
-      - 6.5.4.1.1 Start Up
-      - 6.5.4.1.2 During Show
-      - 6.5.4.1.3 Shut Down
-      - 6.5.4.1.4 Common Tasks
-      - 6.5.4.1.5 Troubleshooting
-  - *6.5.5 Troubleshooting*  
-    Common issues, diagnostic procedures, and solutions
-  - *6.5.6 Maintenance*  
-    Regular maintenance requirements and procedures
-  - *6.5.7 Documentation*  
-    Technical reference materials and specifications
+<details>
+<summary><strong>6.3 Lighting</strong><em> - Performance and architectural lighting throughout the venue</em></summary>
 
-- **6.6 Show Control**  
-  *Primary show operation system that controls and sequences show elements*
-  - *6.6.1 Architecture*  
-    Technical design, signal flow, and system diagrams
-  - *6.6.2 Inventory*  
-    Comprehensive list of components, specifications, and locations
-  - *6.6.3 Operation*  
-    Procedures for system operation
-    - 6.6.3.1 Start Up
-    - 6.6.3.2 During Show
-    - 6.6.3.3 Shut Down
-    - 6.6.3.4 Common Tasks
-    - 6.6.3.5 Troubleshooting
-  - *6.6.4 Software*  
-    Software applications, configurations, and interfaces
-    - 6.6.4.1 Medialon
-      - 6.6.4.1.1 Start Up
-      - 6.6.4.1.2 During Show
-      - 6.6.4.1.3 Shut Down
-      - 6.6.4.1.4 Common Tasks
-      - 6.6.4.1.5 Troubleshooting
-    - 6.6.4.2 iPad Control
-      - 6.6.4.2.1 Start Up
-      - 6.6.4.2.2 During Show
-      - 6.6.4.2.3 Shut Down
-      - 6.6.4.2.4 Common Tasks
-      - 6.6.4.2.5 Troubleshooting
-  - *6.6.5 Troubleshooting*  
-    Common issues, diagnostic procedures, and solutions
-  - *6.6.6 Maintenance*  
-    Regular maintenance requirements and procedures
-  - *6.6.7 Documentation*  
-    Technical reference materials and specifications
+- *6.3.1 Architecture*  
+  Technical design, signal flow, and system diagrams
+- *6.3.2 Inventory*  
+  Comprehensive list of components, specifications, and locations
+- *6.3.3 Operation*  
+  Procedures for system operation
+  - 6.3.3.1 Start Up
+  - 6.3.3.2 During Show
+  - 6.3.3.3 Shut Down
+  - 6.3.3.4 Common Tasks
+  - 6.3.3.5 Troubleshooting
+- *6.3.4 Software*  
+  Software applications, configurations, and interfaces
+  - 6.3.4.1 ETC EOS
+    - 6.3.4.1.1 Start Up
+    - 6.3.4.1.2 During Show
+    - 6.3.4.1.3 Shut Down
+    - 6.3.4.1.4 Common Tasks
+    - 6.3.4.1.5 Troubleshooting
+- *6.3.5 Troubleshooting*  
+  Common issues, diagnostic procedures, and solutions
+- *6.3.6 Maintenance*  
+  Regular maintenance requirements and procedures
+- *6.3.7 Documentation*  
+  Technical reference materials and specifications
+</details>
 
-- **6.7 Video**  
-  *Projection LED and content playback systems*
-  - *6.7.1 Architecture*  
-    Technical design, signal flow, and system diagrams
-  - *6.7.2 Inventory*  
-    Comprehensive list of components, specifications, and locations
-  - *6.7.3 Operation*  
-    Procedures for system operation
-    - 6.7.3.1 Start Up
-    - 6.7.3.2 During Show
-    - 6.7.3.3 Shut Down
-    - 6.7.3.4 Common Tasks
-    - 6.7.3.5 Troubleshooting
-  - *6.7.4 Software*  
-    Software applications, configurations, and interfaces
-    - 6.7.4.1 Media Server
-      - 6.7.4.1.1 Start Up
-      - 6.7.4.1.2 During Show
-      - 6.7.4.1.3 Shut Down
-      - 6.7.4.1.4 Common Tasks
-      - 6.7.4.1.5 Troubleshooting
-    - 6.7.4.2 Projector Control
-      - 6.7.4.2.1 Start Up
-      - 6.7.4.2.2 During Show
-      - 6.7.4.2.3 Shut Down
-      - 6.7.4.2.4 Common Tasks
-      - 6.7.4.2.5 Troubleshooting
-  - *6.7.5 Troubleshooting*  
-    Common issues, diagnostic procedures, and solutions
-  - *6.7.6 Maintenance*  
-    Regular maintenance requirements and procedures
-  - *6.7.7 Documentation*  
-    Technical reference materials and specifications
+<details>
+<summary><strong>6.4 Networking</strong><em> - IT network supporting all technical systems</em></summary>
+
+- *6.4.1 Architecture*  
+  Technical design, signal flow, and system diagrams
+- *6.4.2 Inventory*  
+  Comprehensive list of components, specifications, and locations
+- *6.4.3 Operation*  
+  Procedures for system operation
+  - 6.4.3.1 Start Up
+  - 6.4.3.2 During Show
+  - 6.4.3.3 Shut Down
+  - 6.4.3.4 Common Tasks
+  - 6.4.3.5 Troubleshooting
+- *6.4.4 Software*  
+  Software applications, configurations, and interfaces
+  - 6.4.4.1 Network Management
+    - 6.4.4.1.1 Start Up
+    - 6.4.4.1.2 During Show
+    - 6.4.4.1.3 Shut Down
+    - 6.4.4.1.4 Common Tasks
+    - 6.4.4.1.5 Troubleshooting
+- *6.4.5 Troubleshooting*  
+  Common issues, diagnostic procedures, and solutions
+- *6.4.6 Maintenance*  
+  Regular maintenance requirements and procedures
+- *6.4.7 Documentation*  
+  Technical reference materials and specifications
+</details>
+
+<details>
+<summary><strong>6.5 Rigging</strong><em> - Overhead suspension systems for technical equipment</em></summary>
+
+- *6.5.1 Architecture*  
+  Technical design, signal flow, and system diagrams
+- *6.5.2 Inventory*  
+  Comprehensive list of components, specifications, and locations
+- *6.5.3 Operation*  
+  Procedures for system operation
+  - 6.5.3.1 Start Up
+  - 6.5.3.2 During Show
+  - 6.5.3.3 Shut Down
+  - 6.5.3.4 Common Tasks
+  - 6.5.3.5 Troubleshooting
+- *6.5.4 Software*  
+  Software applications, configurations, and interfaces
+  - 6.5.4.1 Motor Control
+    - 6.5.4.1.1 Start Up
+    - 6.5.4.1.2 During Show
+    - 6.5.4.1.3 Shut Down
+    - 6.5.4.1.4 Common Tasks
+    - 6.5.4.1.5 Troubleshooting
+- *6.5.5 Troubleshooting*  
+  Common issues, diagnostic procedures, and solutions
+- *6.5.6 Maintenance*  
+  Regular maintenance requirements and procedures
+- *6.5.7 Documentation*  
+  Technical reference materials and specifications
+</details>
+
+<details>
+<summary><strong>6.6 Show Control</strong><em> - Primary show operation system that controls and sequences show elements</em></summary>
+
+- *6.6.1 Architecture*  
+  Technical design, signal flow, and system diagrams
+- *6.6.2 Inventory*  
+  Comprehensive list of components, specifications, and locations
+- *6.6.3 Operation*  
+  Procedures for system operation
+  - 6.6.3.1 Start Up
+  - 6.6.3.2 During Show
+  - 6.6.3.3 Shut Down
+  - 6.6.3.4 Common Tasks
+  - 6.6.3.5 Troubleshooting
+- *6.6.4 Software*  
+  Software applications, configurations, and interfaces
+  - 6.6.4.1 Medialon
+    - 6.6.4.1.1 Start Up
+    - 6.6.4.1.2 During Show
+    - 6.6.4.1.3 Shut Down
+    - 6.6.4.1.4 Common Tasks
+    - 6.6.4.1.5 Troubleshooting
+  - 6.6.4.2 iPad Control
+    - 6.6.4.2.1 Start Up
+    - 6.6.4.2.2 During Show
+    - 6.6.4.2.3 Shut Down
+    - 6.6.4.2.4 Common Tasks
+    - 6.6.4.2.5 Troubleshooting
+- *6.6.5 Troubleshooting*  
+  Common issues, diagnostic procedures, and solutions
+- *6.6.6 Maintenance*  
+  Regular maintenance requirements and procedures
+- *6.6.7 Documentation*  
+  Technical reference materials and specifications
+</details>
+
+<details>
+<summary><strong>6.7 Video</strong><em> - Projection LED and content playback systems</em></summary>
+
+- *6.7.1 Architecture*  
+  Technical design, signal flow, and system diagrams
+- *6.7.2 Inventory*  
+  Comprehensive list of components, specifications, and locations
+- *6.7.3 Operation*  
+  Procedures for system operation
+  - 6.7.3.1 Start Up
+  - 6.7.3.2 During Show
+  - 6.7.3.3 Shut Down
+  - 6.7.3.4 Common Tasks
+  - 6.7.3.5 Troubleshooting
+- *6.7.4 Software*  
+  Software applications, configurations, and interfaces
+  - 6.7.4.1 Media Server
+    - 6.7.4.1.1 Start Up
+    - 6.7.4.1.2 During Show
+    - 6.7.4.1.3 Shut Down
+    - 6.7.4.1.4 Common Tasks
+    - 6.7.4.1.5 Troubleshooting
+  - 6.7.4.2 Projector Control
+    - 6.7.4.2.1 Start Up
+    - 6.7.4.2.2 During Show
+    - 6.7.4.2.3 Shut Down
+    - 6.7.4.2.4 Common Tasks
+    - 6.7.4.2.5 Troubleshooting
+- *6.7.5 Troubleshooting*  
+  Common issues, diagnostic procedures, and solutions
+- *6.7.6 Maintenance*  
+  Regular maintenance requirements and procedures
+- *6.7.7 Documentation*  
+  Technical reference materials and specifications
+</details>
 
 #### Supporting Systems
 
-- **6.8 Comms**  
-  *Team communication infrastructure including radios and intercoms*
-  - *6.8.1 Architecture*  
-    Technical design, signal flow, and system diagrams
-  - *6.8.2 Inventory*  
-    Comprehensive list of components, specifications, and locations
-  - *6.8.3 Operation*  
-    Procedures for system operation
-    - 6.8.3.1 Start Up
-    - 6.8.3.2 During Show
-    - 6.8.3.3 Shut Down
-    - 6.8.3.4 Common Tasks
-    - 6.8.3.5 Troubleshooting
-  - *6.8.4 Software*  
-    Software applications, configurations, and interfaces
-    - 6.8.4.1 Radio Programming
-      - 6.8.4.1.1 Start Up
-      - 6.8.4.1.2 During Show
-      - 6.8.4.1.3 Shut Down
-      - 6.8.4.1.4 Common Tasks
-      - 6.8.4.1.5 Troubleshooting
-  - *6.8.5 Troubleshooting*  
-    Common issues, diagnostic procedures, and solutions
-  - *6.8.6 Maintenance*  
-    Regular maintenance requirements and procedures
-  - *6.8.7 Documentation*  
-    Technical reference materials and specifications
+<details>
+<summary><strong>6.8 Comms</strong><em> - Team communication infrastructure including radios and intercoms</em></summary>
 
-- **6.9 Security**  
-  *Surveillance and security technology systems*
-  - *6.9.1 Architecture*  
-    Technical design, signal flow, and system diagrams
-  - *6.9.2 Inventory*  
-    Comprehensive list of components, specifications, and locations
-  - *6.9.3 Operation*  
-    Procedures for system operation
-    - 6.9.3.1 Start Up
-    - 6.9.3.2 During Show
-    - 6.9.3.3 Shut Down
-    - 6.9.3.4 Common Tasks
-    - 6.9.3.5 Troubleshooting
-  - *6.9.4 Software*  
-    Software applications, configurations, and interfaces
-    - 6.9.4.1 CCTV Management
-      - 6.9.4.1.1 Start Up
-      - 6.9.4.1.2 During Show
-      - 6.9.4.1.3 Shut Down
-      - 6.9.4.1.4 Common Tasks
-      - 6.9.4.1.5 Troubleshooting
-    - 6.9.4.2 Access Control
-      - 6.9.4.2.1 Start Up
-      - 6.9.4.2.2 During Show
-      - 6.9.4.2.3 Shut Down
-      - 6.9.4.2.4 Common Tasks
-      - 6.9.4.2.5 Troubleshooting
-  - *6.9.5 Troubleshooting*  
-    Common issues, diagnostic procedures, and solutions
-  - *6.9.6 Maintenance*  
-    Regular maintenance requirements and procedures
-  - *6.9.7 Documentation*  
-    Technical reference materials and specifications
+- *6.8.1 Architecture*  
+  Technical design, signal flow, and system diagrams
+- *6.8.2 Inventory*  
+  Comprehensive list of components, specifications, and locations
+- *6.8.3 Operation*  
+  Procedures for system operation
+  - 6.8.3.1 Start Up
+  - 6.8.3.2 During Show
+  - 6.8.3.3 Shut Down
+  - 6.8.3.4 Common Tasks
+  - 6.8.3.5 Troubleshooting
+- *6.8.4 Software*  
+  Software applications, configurations, and interfaces
+  - 6.8.4.1 Radio Programming
+    - 6.8.4.1.1 Start Up
+    - 6.8.4.1.2 During Show
+    - 6.8.4.1.3 Shut Down
+    - 6.8.4.1.4 Common Tasks
+    - 6.8.4.1.5 Troubleshooting
+- *6.8.5 Troubleshooting*  
+  Common issues, diagnostic procedures, and solutions
+- *6.8.6 Maintenance*  
+  Regular maintenance requirements and procedures
+- *6.8.7 Documentation*  
+  Technical reference materials and specifications
+</details>
 
-- **6.10 Emergency**  
-  *Safety systems for emergency situations*
-  - *6.10.1 Architecture*  
-    Technical design, signal flow, and system diagrams
-  - *6.10.2 Inventory*  
-    Comprehensive list of components, specifications, and locations
-  - *6.10.3 Operation*  
-    Procedures for system operation
-    - 6.10.3.1 Start Up
-    - 6.10.3.2 During Show
-    - 6.10.3.3 Shut Down
-    - 6.10.3.4 Common Tasks
-    - 6.10.3.5 Troubleshooting
-  - *6.10.4 Software*  
-    Software applications, configurations, and interfaces
-    - 6.10.4.1 Emergency Systems Monitoring
-      - 6.10.4.1.1 Start Up
-      - 6.10.4.1.2 During Show
-      - 6.10.4.1.3 Shut Down
-      - 6.10.4.1.4 Common Tasks
-      - 6.10.4.1.5 Troubleshooting
-  - *6.10.5 Troubleshooting*  
-    Common issues, diagnostic procedures, and solutions
-  - *6.10.6 Maintenance*  
-    Regular maintenance requirements and procedures
-  - *6.10.7 Documentation*  
-    Technical reference materials and specifications
+<details>
+<summary><strong>6.9 Security</strong><em> - Surveillance and security technology systems</em></summary>
 
-- **6.11 Venue Tech**  
-  *Non-show technical systems supporting venue operations*
-  - *6.11.1 Architecture*  
-    Technical design, signal flow, and system diagrams
-  - *6.11.2 Inventory*  
-    Comprehensive list of components, specifications, and locations
-  - *6.11.3 Operation*  
-    Procedures for system operation
-    - 6.11.3.1 Start Up
-    - 6.11.3.2 During Show
-    - 6.11.3.3 Shut Down
-    - 6.11.3.4 Common Tasks
-    - 6.11.3.5 Troubleshooting
-  - *6.11.4 Software*  
-    Software applications, configurations, and interfaces
-    - 6.11.4.1 POS Systems
-      - 6.11.4.1.1 Start Up
-      - 6.11.4.1.2 During Show
-      - 6.11.4.1.3 Shut Down
-      - 6.11.4.1.4 Common Tasks
-      - 6.11.4.1.5 Troubleshooting
-    - 6.11.4.2 Ticketing Systems
-      - 6.11.4.2.1 Start Up
-      - 6.11.4.2.2 During Show
-      - 6.11.4.2.3 Shut Down
-      - 6.11.4.2.4 Common Tasks
-      - 6.11.4.2.5 Troubleshooting
-    - 6.11.4.3 Photo Capture Systems
-      - 6.11.4.3.1 Start Up
-      - 6.11.4.3.2 During Show
-      - 6.11.4.3.3 Shut Down
-      - 6.11.4.3.4 Common Tasks
-      - 6.11.4.3.5 Troubleshooting
-  - *6.11.5 Troubleshooting*  
-    Common issues, diagnostic procedures, and solutions
-  - *6.11.6 Maintenance*  
-    Regular maintenance requirements and procedures
-  - *6.11.7 Documentation*  
-    Technical reference materials and specifications
+- *6.9.1 Architecture*  
+  Technical design, signal flow, and system diagrams
+- *6.9.2 Inventory*  
+  Comprehensive list of components, specifications, and locations
+- *6.9.3 Operation*  
+  Procedures for system operation
+  - 6.9.3.1 Start Up
+  - 6.9.3.2 During Show
+  - 6.9.3.3 Shut Down
+  - 6.9.3.4 Common Tasks
+  - 6.9.3.5 Troubleshooting
+- *6.9.4 Software*  
+  Software applications, configurations, and interfaces
+  - 6.9.4.1 CCTV Management
+    - 6.9.4.1.1 Start Up
+    - 6.9.4.1.2 During Show
+    - 6.9.4.1.3 Shut Down
+    - 6.9.4.1.4 Common Tasks
+    - 6.9.4.1.5 Troubleshooting
+  - 6.9.4.2 Access Control
+    - 6.9.4.2.1 Start Up
+    - 6.9.4.2.2 During Show
+    - 6.9.4.2.3 Shut Down
+    - 6.9.4.2.4 Common Tasks
+    - 6.9.4.2.5 Troubleshooting
+- *6.9.5 Troubleshooting*  
+  Common issues, diagnostic procedures, and solutions
+- *6.9.6 Maintenance*  
+  Regular maintenance requirements and procedures
+- *6.9.7 Documentation*  
+  Technical reference materials and specifications
+</details>
 
-### 7. Maintenance
-*Procedures for ensuring ongoing system reliability*
+<details>
+<summary><strong>6.10 Emergency</strong><em> - Safety systems for emergency situations</em></summary>
+
+- *6.10.1 Architecture*  
+  Technical design, signal flow, and system diagrams
+- *6.10.2 Inventory*  
+  Comprehensive list of components, specifications, and locations
+- *6.10.3 Operation*  
+  Procedures for system operation
+  - 6.10.3.1 Start Up
+  - 6.10.3.2 During Show
+  - 6.10.3.3 Shut Down
+  - 6.10.3.4 Common Tasks
+  - 6.10.3.5 Troubleshooting
+- *6.10.4 Software*  
+  Software applications, configurations, and interfaces
+  - 6.10.4.1 Emergency Systems Monitoring
+    - 6.10.4.1.1 Start Up
+    - 6.10.4.1.2 During Show
+    - 6.10.4.1.3 Shut Down
+    - 6.10.4.1.4 Common Tasks
+    - 6.10.4.1.5 Troubleshooting
+- *6.10.5 Troubleshooting*  
+  Common issues, diagnostic procedures, and solutions
+- *6.10.6 Maintenance*  
+  Regular maintenance requirements and procedures
+- *6.10.7 Documentation*  
+  Technical reference materials and specifications
+</details>
+
+<details>
+<summary><strong>6.11 Venue Tech</strong><em> - Non-show technical systems supporting venue operations</em></summary>
+
+- *6.11.1 Architecture*  
+  Technical design, signal flow, and system diagrams
+- *6.11.2 Inventory*  
+  Comprehensive list of components, specifications, and locations
+- *6.11.3 Operation*  
+  Procedures for system operation
+  - 6.11.3.1 Start Up
+  - 6.11.3.2 During Show
+  - 6.11.3.3 Shut Down
+  - 6.11.3.4 Common Tasks
+  - 6.11.3.5 Troubleshooting
+- *6.11.4 Software*  
+  Software applications, configurations, and interfaces
+  - 6.11.4.1 POS Systems
+    - 6.11.4.1.1 Start Up
+    - 6.11.4.1.2 During Show
+    - 6.11.4.1.3 Shut Down
+    - 6.11.4.1.4 Common Tasks
+    - 6.11.4.1.5 Troubleshooting
+  - 6.11.4.2 Ticketing Systems
+    - 6.11.4.2.1 Start Up
+    - 6.11.4.2.2 During Show
+    - 6.11.4.2.3 Shut Down
+    - 6.11.4.2.4 Common Tasks
+    - 6.11.4.2.5 Troubleshooting
+  - 6.11.4.3 Photo Capture Systems
+    - 6.11.4.3.1 Start Up
+    - 6.11.4.3.2 During Show
+    - 6.11.4.3.3 Shut Down
+    - 6.11.4.3.4 Common Tasks
+    - 6.11.4.3.5 Troubleshooting
+- *6.11.5 Troubleshooting*  
+  Common issues, diagnostic procedures, and solutions
+- *6.11.6 Maintenance*  
+  Regular maintenance requirements and procedures
+- *6.11.7 Documentation*  
+  Technical reference materials and specifications
+</details>
+</details>
+
+<details>
+<summary><strong>7. Maintenance</strong><em> - Procedures for ensuring ongoing system reliability</em></summary>
 
 - **7.1 Maintenance schedule**  
   Calendar and frequency of maintenance tasks
@@ -540,9 +568,10 @@ This document outlines the complete chapter and section structure for the Bluey'
 
 - **7.5 Maintenance logging procedures**  
   Documentation requirements for maintenance activities
+</details>
 
-### 8. Library
-*Reference materials and documentation library*
+<details>
+<summary><strong>8. Library</strong><em> - Reference materials and documentation library</em></summary>
 
 - **8.1 Technical drawings**  
   Complete collection of technical drawings and diagrams
@@ -561,3 +590,4 @@ This document outlines the complete chapter and section structure for the Bluey'
 
 - **8.6 Glossary and key terms**  
   Definitions of venue-specific terminology and technical jargon
+</details>
