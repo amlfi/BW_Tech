@@ -20,9 +20,7 @@ layout:
 
 # Welcome
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
-
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+Welcome to the technical operations documentation for Bluey's World Brisbane. This manual provides comprehensive guidance for all production systems, including setup procedures, daily operations, maintenance protocols, and troubleshooting guides. Designed for the technical staff at all levels.
 
 ### Chapters
 
