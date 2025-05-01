@@ -38,7 +38,7 @@
       * [6.1.4.1.1 / Start Up](6.-systems/6.1-audio/6.1.4-software/6.1.4.1-dante/6.1.4.1.1-start-up.md)
       * [6.1.4.1.2 / During Show](6.-systems/6.1-audio/6.1.4-software/6.1.4.1-dante/6.1.4.1.2-during-show.md)
       * [6.1.4.1.3 / Shut Down](6.-systems/6.1-audio/6.1.4-software/6.1.4.1-dante/6.1.4.1.3-shut-down.md)
-      * [6.1.4.1.4 / Common Edits](6.-systems/6.1-audio/6.1.4-software/6.1.4.1-dante/6.1.4.1.4-common-edits.md)
+      * [6.1.4.1.4 / Common Tasks](6.-systems/6.1-audio/6.1.4-software/6.1.4.1-dante/6.1.4.1.4-common-edits.md)
       * [6.1.4.1.5 / Troubleshooting](6.-systems/6.1-audio/6.1.4-software/6.1.4.1-dante/6.1.4.1.5-troubleshooting.md)
     * [6.1.4.2 / qLab](6.-systems/6.1-audio/6.1.4-software/6.1.4.2-qlab.md)
   * [6.1.5 / Troubleshooting](6.-systems/6.1-audio/6.1.5-troubleshooting.md)
