@@ -1,5 +1,7 @@
 ---
-icon: book-open-cover
+description: >-
+  Core audio networking software for managing digital audio routing and device
+  configuration throughout Bluey's World.
 cover: >-
   https://images.unsplash.com/photo-1618609377864-68609b857e90?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxhdWRpb3xlbnwwfHx8fDE3NDU5OTQ1NDF8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -19,14 +21,5 @@ layout:
     visible: true
 ---
 
-# 6.1.7 / Documentation
+# 6.1.4.1 / Dante
 
-{% tabs %}
-{% tab title="First Tab" %}
-{% embed url="https://www.dropbox.com/scl/fi/kbmkau7j0tadqau9ei0f6/BW-9.1_Emergency_Blank_rev2025.pdf?dl=0&rlkey=jpuik1aknung0p9lteii44jwf" %}
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
-{% endtab %}
-{% endtabs %}
