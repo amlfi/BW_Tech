@@ -17,5 +17,5 @@ layout:
     visible: true
 ---
 
-# 3.1 / Venue Opening Procedures
+# 3.3 / Post-show Protocols
 

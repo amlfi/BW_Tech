@@ -13,18 +13,42 @@
 ***
 
 * [2.2 / Floorplan](2.2-floorplan.md)
+* [2.3 / Glossary and Key Terms](2.3-glossary-and-key-terms.md)
+* [2.4 Key Contacts and Escalation Paths](2.4-key-contacts-and-escalation-paths.md)
 
 ## 3 / Day to Day
 
-* [Page 2](3-day-to-day/page-2.md)
+* [3.1 / Venue Opening Procedures](3-day-to-day/page-2.md)
+* [3.2 / Pre-show Technical Checks](3-day-to-day/page-2-1.md)
+* [3.3 / Post-show Protocols](3-day-to-day/page-2-2.md)
+* [3.4 / Venue Closing Procedures](3-day-to-day/page-2-3.md)
+* [3.5 / Technical Startup/Shutdown Checklists](3-day-to-day/page-2-4.md)
 
 ## 4 / The Show
 
-* [Page 3](4-the-show/page-3.md)
+* [4.1 / Normal Show Operation](4-the-show/page-3/README.md)
+  * [4.1.1 / Typical Show Rundown](4-the-show/page-3/4.1.1-typical-show-rundown.md)
+  * [4.1.2 / Technical Positions During Shows](4-the-show/page-3/4.1.2-technical-positions-during-shows.md)
+  * [4.1.3 / Control Interfaces](4-the-show/page-3/4.1.3-control-interfaces.md)
+  * [4.1.4 / Interaction with Venue Teams](4-the-show/page-3/4.1.4-interaction-with-venue-teams/README.md)
+    * [4.1.4.1 / Front of House Team](4-the-show/page-3/4.1.4-interaction-with-venue-teams/4.1.4.1-front-of-house-team.md)
+    * [4.1.4.2 / Experience Team](4-the-show/page-3/4.1.4-interaction-with-venue-teams/4.1.4.2-experience-team.md)
+    * [4.1.4.3 / Cleaning Team](4-the-show/page-3/4.1.4-interaction-with-venue-teams/4.1.4.3-cleaning-team.md)
+    * [4.1.4.4 / Site Team](4-the-show/page-3/4.1.4-interaction-with-venue-teams/4.1.4.4-site-team.md)
+  * [4.1.5 / Common Show Adjustments](4-the-show/page-3/4.1.5-common-show-adjustments.md)
+* [4.2 / Emergency Show Operation](4-the-show/page-3-1/README.md)
+  * [4.2.1 / Show Stop Procedures](4-the-show/page-3-1/4.2.1-show-stop-procedures.md)
+  * [4.2.2 / Technical Failure Responses During Shows](4-the-show/page-3-1/4.2.2-technical-failure-responses-during-shows.md)
+  * [4.2.3 / Emergency Restoration of Show Elements](4-the-show/page-3-1/4.2.3-emergency-restoration-of-show-elements.md)
+  * [4.2.4 / Communication Protocols During Show Emergencies](4-the-show/page-3-1/4.2.4-communication-protocols-during-show-emergencies.md)
 
 ## 5 / Emergency
 
-* [Page 4](5-emergency/page-4.md)
+* [5.1 / Venue-wide Emergency Procedures](5-emergency/page-4.md)
+* [5.2 / Power Failure Responses](5-emergency/page-4-1.md)
+* [5.3 / Emergency Repairs](5-emergency/page-4-2.md)
+* [5.4 / Communication During Facility Emergencies](5-emergency/page-4-3.md)
+* [5.5 / Recovery Procedures](5-emergency/page-4-4.md)
 
 ## 6 / Systems
 
