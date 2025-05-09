@@ -8,7 +8,11 @@
 
 ## 2 / Venue
 
-* [Page 1](2-venue/page-1.md)
+* [2.1 / Overview](2-venue/page-1.md)
+
+***
+
+* [2.2 / Floorplan](2.2-floorplan.md)
 
 ## 3 / Day to Day
 
@@ -209,7 +213,7 @@
 
 ## 8 / Library
 
-* [Page 7](8-library/page-7.md)
+* [8.1 / Library](8-library/page-7.md)
 
 ## z\_Sample
 
