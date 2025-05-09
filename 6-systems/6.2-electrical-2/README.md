@@ -1,7 +1,7 @@
 ---
-icon: bolt
+icon: lightbulb
 cover: >-
-  https://images.unsplash.com/photo-1553873002-785d775854c9?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxlbGVjdHJpY3xlbnwwfHx8fDE3NDY3NjAyNzl8MA&ixlib=rb-4.1.0&q=85
+  https://images.unsplash.com/photo-1727096857692-e9dadf2bc92e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxzaG93JTIwbGlnaHRpbmd8ZW58MHx8fHwxNzQ2NzYxNTc0fDA&ixlib=rb-4.1.0&q=85
 coverY: 0
 layout:
   cover:
@@ -19,5 +19,5 @@ layout:
     visible: true
 ---
 
-# 6.2 / Electrical
+# Copy of 6.3 / Lighting
 
