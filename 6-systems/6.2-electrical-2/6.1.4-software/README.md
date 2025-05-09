@@ -1,10 +1,10 @@
 ---
 description: >-
-  Overview of the critical lighitng software applications used throughout
-  Bluey's World for lighting routing, processing, and control.
+  Overview of the critical networking software applications used throughout
+  Bluey's World for network routing, processing, and control.
 icon: browsers
 cover: >-
-  https://images.unsplash.com/photo-1727096857692-e9dadf2bc92e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxzaG93JTIwbGlnaHRpbmd8ZW58MHx8fHwxNzQ2NzYxNTc0fDA&ixlib=rb-4.1.0&q=85
+  https://images.unsplash.com/photo-1544197150-b99a580bb7a8?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxldGhlcm5ldHxlbnwwfHx8fDE3NDY3NjMxNzJ8MA&ixlib=rb-4.1.0&q=85
 coverY: 0
 layout:
   cover:
@@ -22,5 +22,5 @@ layout:
     visible: true
 ---
 
-# 6.3.4 / Software
+# 6.4.4 / Software
 
