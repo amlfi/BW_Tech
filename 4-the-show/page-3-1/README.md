@@ -2,11 +2,11 @@
 description: Procedures for managing technical issues during performances
 icon: face-astonished
 cover: ../../.gitbook/assets/858e869c44a78087e92478a5d4dd5f77.avif
-coverY: -16.100815418828752
+coverY: 0
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:

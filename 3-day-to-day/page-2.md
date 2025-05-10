@@ -1,4 +1,5 @@
 ---
+icon: sunrise
 cover: ../.gitbook/assets/476443859_1858955741585208_3064272690066424631_n.jpg
 coverY: -32
 layout:

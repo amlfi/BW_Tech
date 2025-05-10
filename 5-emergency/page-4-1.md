@@ -1,5 +1,6 @@
 ---
 description: Actions required during partial or complete power loss
+icon: plug-circle-exclamation
 cover: >-
   https://images.unsplash.com/photo-1551897922-6a919947ae24?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxlbWVyZ2VuY3klMjBzaWdufGVufDB8fHx8MTc0Njc2OTkyOXww&ixlib=rb-4.1.0&q=85
 coverY: 0
