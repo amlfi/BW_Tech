@@ -1,8 +1,7 @@
 ---
 description: >-
-  Provides an overview of the Bluey’s World Brisbane venue, including layout,
-  key operational zones, and how technical systems integrate across the
-  experience.
+  Provides an overview of the Bluey’s World Brisbane venue, including layout and
+  key operational zones.
 icon: clipboard-question
 cover: ../.gitbook/assets/Blueys-World-37.png
 coverY: 0
@@ -10,7 +9,11 @@ coverY: 0
 
 # 2.1 / Overview
 
-**Entrance to Bluey's World is via the exterior deck.** The experience begins in **Pavilion 1**, where guests are split into two mirrored groups, each led by a gnome guide. Sessions run every 10 minutes, with no overlap between groups. Guests journey through the house-themed environments, following the storyline in search of Bluey and Bingo.
+### Venue Patron Experience&#x20;
+
+**Patron entrance to Bluey's World is via the exterior deck.** The experience begins in **Pavilion 1**, where guests are split into two mirrored groups, each led by a gnome guide. Typically, sessions run every 10 minutes, with no overlap between groups. _Note, on quieter days, groups remain together through the entire house, using only one side._&#x20;
+
+Guests journey through the house-themed environments, following the storyline in search of Bluey and Bingo.
 
 **In Pavilion 1, each group moves through:**
 
