@@ -22,3 +22,6 @@ layout:
 
 # 5.1 / Venue-wide Emergency Procedures
 
+{% hint style="info" %}
+Do we have a pre-existing copy/plan for this? - Misha
+{% endhint %}

@@ -24,4 +24,4 @@ layout:
 
 # 6.1.4 / Software
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Dante Controller</strong> / Network audio routing software for managing the venue-wide Dante audio infrastructure.</td><td><a href="../../../.gitbook/assets/logo-1.svg">logo-1.svg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Dante Controller</strong> / Network audio routing software for managing the venue-wide Dante audio infrastructure.</td><td><a href="../../../.gitbook/assets/logo-Dante.svg">logo-Dante.svg</a></td></tr><tr><td><strong>QLab</strong> / Software allowing one central place to build your sound, video, lighting, and show control cues.</td><td><a href="../../../.gitbook/assets/qlab.png">qlab.png</a></td></tr></tbody></table>
