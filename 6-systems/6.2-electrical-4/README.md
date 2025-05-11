@@ -4,7 +4,7 @@ description: >-
   documents the logic, triggers, and sequencing architecture.
 icon: arrow-progress
 cover: >-
-  https://images.unsplash.com/photo-1746016168296-f2ecff6ebbc0?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxsaWdodGluZyUyMGRlc2t8ZW58MHx8fHwxNzQ2NzY0MTM0fDA&ixlib=rb-4.1.0&q=85
+  https://images.unsplash.com/photo-1607292803026-3b9d9b3d0fe7?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxyZW1vdGUlMjBjb250cm9sJTIwaXBhZHxlbnwwfHx8fDE3NDY5MjM3NjN8MA&ixlib=rb-4.1.0&q=85
 coverY: 0
 layout:
   cover:
