@@ -1,4 +1,8 @@
 ---
+description: >-
+  Lighting at Bluey’s World shapes atmosphere and focus throughout the
+  experience. This section covers the technical setup of fixtures, control
+  systems, and power.
 icon: lightbulb
 cover: >-
   https://images.unsplash.com/photo-1727096857692-e9dadf2bc92e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxzaG93JTIwbGlnaHRpbmd8ZW58MHx8fHwxNzQ2NzYxNTc0fDA&ixlib=rb-4.1.0&q=85

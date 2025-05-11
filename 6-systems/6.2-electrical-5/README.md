@@ -1,4 +1,7 @@
 ---
+description: >-
+  Projectors deliver key visual elements across the experience. This section
+  covers projection systems, signal flow, content playback, and alignment tools.
 icon: projector
 cover: >-
   https://images.unsplash.com/photo-1535016120720-40c646be5580?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxwcm9qZWN0b3J8ZW58MHx8fHwxNzQ2NzY0MzY1fDA&ixlib=rb-4.1.0&q=85

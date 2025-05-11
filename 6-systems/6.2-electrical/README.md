@@ -1,4 +1,8 @@
 ---
+description: >-
+  Electrical systems at Bluey’s World power everything from lighting and audio
+  to show systems. This section is the technical reference for power
+  distribution and infrastructure.
 icon: bolt
 cover: >-
   https://images.unsplash.com/photo-1553873002-785d775854c9?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxlbGVjdHJpY3xlbnwwfHx8fDE3NDY3NjAyNzl8MA&ixlib=rb-4.1.0&q=85

@@ -1,7 +1,7 @@
 ---
 description: >-
-  Overview of the critical networking software applications used throughout
-  Bluey's World for network routing, processing, and control.
+  Overview of any network management or monitoring tools used (e.g. UniFi, Dante
+  Controller, or VLAN tools), including their role in diagnostics and setup.
 icon: browsers
 cover: >-
   https://images.unsplash.com/photo-1544197150-b99a580bb7a8?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxldGhlcm5ldHxlbnwwfHx8fDE3NDY3NjMxNzJ8MA&ixlib=rb-4.1.0&q=85
