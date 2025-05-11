@@ -1,4 +1,7 @@
 ---
+description: >-
+  Provides system-wide guidance for powering up and shutting down technical
+  infrastructure in the correct sequence.
 icon: clipboard-list-check
 cover: ../.gitbook/assets/476443859_1858955741585208_3064272690066424631_n.jpg
 coverY: -32

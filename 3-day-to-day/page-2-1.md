@@ -1,4 +1,7 @@
 ---
+description: >-
+  Covers daily technical inspections and tests to ensure all systems are
+  performance-ready before showtime.
 icon: memo-circle-check
 cover: ../.gitbook/assets/476443859_1858955741585208_3064272690066424631_n.jpg
 coverY: -32
