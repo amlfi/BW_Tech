@@ -1,7 +1,7 @@
 ---
 description: >-
-  Overview of the critical comms software applications used throughout Bluey's
-  World for network routing, processing, and control.
+  Outlines any programming tools or monitoring platforms used for radio
+  configuration, channel management, or diagnostics.
 icon: browsers
 cover: >-
   https://images.unsplash.com/photo-1578054041218-5ee0003926dd?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxjb21tdW5pY2F0ZXxlbnwwfHx8fDE3NDY3NjQ3NjB8MA&ixlib=rb-4.1.0&q=85
@@ -24,3 +24,8 @@ layout:
 
 # 6.8.4 / Software
 
+{% hint style="info" %}
+Section surplus to requirements?&#x20;
+
+
+{% endhint %}

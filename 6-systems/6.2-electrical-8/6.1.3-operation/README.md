@@ -1,7 +1,7 @@
 ---
 description: >-
-  Daily procedures for managing Bluey's World emergency systems, including
-  startup, show operation, and shutdown processes.
+  Outlines crew responsibilities during emergencies, including alarm triggers,
+  PA overrides, and evacuation coordination.
 icon: user-helmet-safety
 cover: >-
   https://images.unsplash.com/photo-1561715608-5659baeccfb4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxlbWVyZ2VuY3klMjBleGl0fGVufDB8fHx8MTc0Njc2NjQ2M3ww&ixlib=rb-4.1.0&q=85

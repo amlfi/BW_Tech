@@ -240,7 +240,18 @@
   * [6.10.5 / Troubleshooting](6-systems/6.2-electrical-8/6.1.5-troubleshooting.md)
   * [6.10.6 / Maintenance](6-systems/6.2-electrical-8/6.1.6-maintenance.md)
   * [6.10.7 / Documentation](6-systems/6.2-electrical-8/6.1.7.-documentation.md)
-* [6.11 / Venue Tech](6-systems/6.11-venue-tech..md)
+* [6.11 / Venue Tech](6-systems/6.2-electrical-9/README.md)
+  * [6.11.1 / Architecture](6-systems/6.2-electrical-9/6.1.1-architecture.md)
+  * [6.11.2 / Inventory](6-systems/6.2-electrical-9/6.1.2-inventory.md)
+  * [6.11.3 / Operation](6-systems/6.2-electrical-9/6.1.3-operation/README.md)
+    * [6.11.3.1 / Common Tasks](6-systems/6.2-electrical-9/6.1.3-operation/6.1.3.4-common-tasks.md)
+    * [6.11.3.2 / Troubleshooting](6-systems/6.2-electrical-9/6.1.3-operation/6.1.3.5-troubleshooting.md)
+  * [6.11.4 / Software](6-systems/6.2-electrical-9/6.1.4-software/README.md)
+    * [6.11.4.1 / Square](6-systems/6.2-electrical-9/6.1.4-software/6.1.4.1-dante.md)
+    * [6.11.4.2 /](6-systems/6.2-electrical-9/6.1.4-software/6.1.4.2-qlab.md)
+  * [6.11.5 / Troubleshooting](6-systems/6.2-electrical-9/6.1.5-troubleshooting.md)
+  * [6.11.6 / Maintenance](6-systems/6.2-electrical-9/6.1.6-maintenance.md)
+  * [6.11.7 / Documentation](6-systems/6.2-electrical-9/6.1.7.-documentation.md)
 
 ## 7 / Maintenance
 
