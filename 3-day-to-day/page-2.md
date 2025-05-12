@@ -1,7 +1,7 @@
 ---
 description: >-
-  Outlines steps for preparing the venue each day, including access, power-up
-  sequences, and safety checks.
+  Outlines steps for preparing the venue each day, including power-up sequences
+  and technical runs.
 icon: sunrise
 cover: ../.gitbook/assets/476443859_1858955741585208_3064272690066424631_n.jpg
 coverY: -32
@@ -22,6 +22,8 @@ layout:
 ---
 
 # 3.1 / Venue Opening Procedures
+
+## \*\*FORMATTING OPTION 1\*\*
 
 ## 🏛 Pavilion 1
 
@@ -122,7 +124,8 @@ layout:
 #### **🛏 Bedrooms – 1x TV each:**
 
 * Select: `HDMI 4`
-* **Remote aim point**: Centre of window frame
+
+**Remote aim point**: Centre of window frame
 
 ***
 
@@ -271,6 +274,8 @@ layout:
 
 
 
+## \*\*FORMATTING OPTION 2: Collapsible and less formatting of text body\*\*
+
 ## 🏛 Pavilion 1
 
 <details>
@@ -340,42 +345,40 @@ Tap "Received"
 
 <summary>📺 4. Turn On TVs</summary>
 
-
-
-* **Remotes Needed:**
+* Remotes Needed:
   * TCL TV Remote
   * Panasonic Projector Remote
   * _Prop remote_&#x20;
 
-#### **🛋 Living Rooms – 3x TVs:**
+#### 🛋 Living Rooms – 3x TVs:
 
-* Select: `HDMI 1`
+* Select: HDMI 1
 * Test Sprite box function using _Prop Remote (behind TV)_:
-  * Test Channels: `3`, `4`, `5`, `6`
-  * Leave on Channel `2` (black screen for mock-off)
+  * Test Channels: 3, 4, 5, 6
+  * Leave on Channel 2 (black screen for mock-off)
 
-**Remote aim points:**
+Remote aim points:
 
-* **Window TV:** Aim at centre right
-* **Prop TV:** Aim at lower centre
+* Window TV: Aim at centre right
+* Prop TV: Aim at lower centre
 
-#### 🧸 **Cubby TVs – 4x per cubby:**
+#### 🧸 Cubby TVs – 4x per cubby:
 
-* Select: `HDMI 1`
+* Select: HDMI 1
 
-**Remote aim points:**
+Remote aim points:
 
-* **Throne** **Room:** RHS behind panel gap around back of cubby panelling and wall
-* **Prop TV:** Slightly pull centre bottom-left purple panel, aim downward in gap
-* **Chilli:** Between panelling and wall on LHS or centre-left in porthole close to screen
-* **Toilet:** LHS above and behind toilet cubby paneling
+* Throne Room: RHS behind panel gap around back of cubby panelling and wall
+* Prop TV: Slightly pull centre bottom-left purple panel, aim downward in gap
+* Chilli: Between panelling and wall on LHS or centre-left in porthole close to screen
+* Toilet: LHS above and behind toilet cubby paneling
 
 > 🔇 _Mute Chilli TV — unmute at \~8:30 AM (the audio loop is annoying)_
 
-#### **🛏 Bedrooms – 1x TV each:**
+#### 🛏 Bedrooms – 1x TV each:
 
-* Select: `HDMI 4`
-* **Remote aim point**: Centre of window frame
+* Select: HDMI 4
+* Remote aim point: Centre of window frame
 
 </details>
 
@@ -545,7 +548,7 @@ Also check:
 
 
 
-
+## \*\*FORMATTING OPTION 3: Combo of above options\*\*
 
 ## 🏛 Pavilion 1
 
