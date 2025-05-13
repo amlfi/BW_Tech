@@ -23,3 +23,12 @@ layout:
 
 # 3.5 / Technical Startup/Shutdown Checklists
 
+{% tabs fullWidth="true" %}
+{% tab title="Open Checklist" %}
+{% embed url="https://airtable.com/appw5zqPpazGMBXvz/shrKqJ7ODLJy1hQzd" %}
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
