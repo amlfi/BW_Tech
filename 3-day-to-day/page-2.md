@@ -115,7 +115,7 @@ Turn ON all breakers
   * Window TV: Aim at centre right
   * Prop TV: Aim at lower centre
 
-🧸 **Cubby TVs – 4x per cubby:**
+⛺ **Cubby TVs – 4x per cubby:**
 
 * Select: HDMI 1
 * Remote aim points:
