@@ -164,7 +164,7 @@
     * [6.7.3.4 / Common Tasks](6-systems/6.2-electrical-5/6.1.3-operation/6.1.3.4-common-tasks.md)
     * [6.7.3.5 / Troubleshooting](6-systems/6.2-electrical-5/6.1.3-operation/6.1.3.5-troubleshooting.md)
   * [6.7.4 / Software](6-systems/6.2-electrical-5/6.1.4-software/README.md)
-    * [6.7.4.1 /](6-systems/6.2-electrical-5/6.1.4-software/6.1.4.1-dante/README.md)
+    * [6.7.4.1 / Resolume](6-systems/6.2-electrical-5/6.1.4-software/6.1.4.1-dante/README.md)
       * [6.7.4.1.1 / Start Up](6-systems/6.2-electrical-5/6.1.4-software/6.1.4.1-dante/6.1.4.1.1-start-up.md)
       * [6.7.4.1.2 / During Show](6-systems/6.2-electrical-5/6.1.4-software/6.1.4.1-dante/6.1.4.1.2-during-show.md)
       * [6.7.4.1.3 / Shut Down](6-systems/6.2-electrical-5/6.1.4-software/6.1.4.1-dante/6.1.4.1.3-shut-down.md)
