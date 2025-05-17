@@ -25,3 +25,7 @@ layout:
 
 # 6.1 / Audio
 
+At BuleyWorld, the **Alcorn McBride Show Control System**, **Max 8**, and **Dante Controller** work in tandem to automate and deliver synchronized audio experiences (e.g., _Bluey_ soundtracks) across the venue.
+
+
+
