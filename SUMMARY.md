@@ -36,11 +36,15 @@
     * [4.1.4.3 / Cleaning Team](4-the-show/page-3/4.1.4-interaction-with-venue-teams/4.1.4.3-cleaning-team.md)
     * [4.1.4.4 / Site Team](4-the-show/page-3/4.1.4-interaction-with-venue-teams/4.1.4.4-site-team.md)
   * [4.1.5 / Common Show Adjustments](4-the-show/page-3/4.1.5-common-show-adjustments.md)
-* [4.2 / Emergency Show Operation](4-the-show/page-3-1/README.md)
-  * [4.2.1 / Show Stop Procedures](4-the-show/page-3-1/4.2.1-show-stop-procedures.md)
-  * [4.2.2 / Technical Failure Responses During Shows](4-the-show/page-3-1/4.2.2-technical-failure-responses-during-shows.md)
-  * [4.2.3 / Emergency Restoration of Show Elements](4-the-show/page-3-1/4.2.3-emergency-restoration-of-show-elements.md)
-  * [4.2.4 / Communication Protocols During Show Emergencies](4-the-show/page-3-1/4.2.4-communication-protocols-during-show-emergencies.md)
+* [4.2 / Sensory Show Operation](4-the-show/page-3-1/README.md)
+  * [4.2.1 / Typical Show Rundown](4-the-show/page-3-1/4.2.1-typical-show-rundown.md)
+  * [4.2.2 / Control Interfaces](4-the-show/page-3-1/4.2.2-control-interfaces.md)
+  * [4.2.3 / Sensory Show Adjustments](4-the-show/page-3-1/4.2.3-sensory-show-adjustments.md)
+* [4.3 / Emergency Show Operation](4-the-show/page-3-2/README.md)
+  * [4.3.1 / Show Stop Procedures](4-the-show/page-3-2/4.3.1-show-stop-procedures.md)
+  * [4.3.2 / Technical Failure Responses During Shows](4-the-show/page-3-2/4.3.2-technical-failure-responses-during-shows.md)
+  * [4.3.3 / Emergency Restoration of Show Elements](4-the-show/page-3-2/4.3.3-emergency-restoration-of-show-elements.md)
+  * [4.3.4 / Communication Protocols During Show Emergencies](4-the-show/page-3-2/4.3.4-communication-protocols-during-show-emergencies.md)
 
 ## 5 / Emergency
 
