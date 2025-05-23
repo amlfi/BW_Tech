@@ -106,6 +106,32 @@ Real-time video sharing between applications (e.g. Resolume ➝ NestMap).
 
 </details>
 
+<details>
+
+<summary>touch designer</summary>
+
+
+
+**1. MadMapper**
+
+* **Function**: Core media server for projection mapping and content delivery.
+* **Used For**: Spatial calibration, visual output synchronization, and show integration.
+* **Operational Notes**: Requires precise alignment with physical surfaces; ensure hardware (projectors, GPUs) is optimized for low-latency playback.
+
+**2. TouchDesigner**
+
+* **Function**: Real-time interactive content processing and cue triggering.
+* **Used For**: Translating user inputs (motion, touch) into dynamic visual responses and environmental storytelling.
+* **Operational Notes**: Scripting/network sync with MadMapper critical; test input sensitivity and logic workflows pre-show.
+
+**3. Integrated System (MadMapper + TouchDesigner)**
+
+* **Function**: Synchronized platform for immersive audience engagement.
+* **Used For**: Seamless show control, adaptive content playback, and multi-sensory storytelling.
+* **Operational Notes**: Regularly validate communication protocols; maintain redundancy for critical cues to ensure uninterrupted performance
+
+</details>
+
 ***
 
 📝 **General Notes**
