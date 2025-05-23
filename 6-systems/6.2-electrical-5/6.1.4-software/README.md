@@ -132,7 +132,30 @@ Real-time video sharing between applications (e.g. Resolume ➝ NestMap).
 
 </details>
 
-***
+<details>
+
+<summary>Madmapper</summary>
+
+#### **MadMapper**
+
+**Function**:
+
+* Core projection mapping and media server software.
+* Handles spatial calibration, content warping, and multi-projector blending.
+
+**Used For**:
+
+* **Visual Output**: Delivering and synchronizing projected content (video, images, generative visuals).
+* **Spatial Alignment**: Mapping visuals to irregular surfaces (e.g., floors, sculptures).
+* **Show Integration**: Syncing with external tools (e.g., TouchDesigner) for cue-based playback and real-time adjustments.
+
+**Operational Notes**:
+
+* **Calibration**: Always perform surface calibration _after_ physical installation of projectors. Use grid/alignment tools for precision.
+* **Hardware**: Ensure GPUs meet MadMapper’s requirements for resolution and refresh rates (test with stress loads pre-show).
+* **Network Sync**: Use Syphon/NDI or OSC protocols for seamless communication with TouchDesigner or other control systems.
+
+</details>
 
 📝 **General Notes**
 
