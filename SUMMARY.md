@@ -258,6 +258,15 @@
   * [6.11.6 / Maintenance](6-systems/6.2-electrical-9/6.1.6-maintenance.md)
   * [6.11.7 / Documentation](6-systems/6.2-electrical-9/6.1.7.-documentation.md)
 
+***
+
+* [6.12 / 3D Printing](6.12-3d-printing/README.md)
+  * [6.12.1 / Architecture](6.12-3d-printing/6.12.1-architecture.md)
+  * [6.12.2 / Inventory](6.12-3d-printing/6.12.2-inventory.md)
+  * [6.12.3 / Operation](6.12-3d-printing/6.12.3-operation.md)
+  * [6.12.4 / Software](6.12-3d-printing/6.12.4-software.md)
+  * [6.12.5 / Troubleshooting](6.12-3d-printing/6.12.5-troubleshooting.md)
+
 ## 7 / Maintenance
 
 * [7.1 / Maintenance Schedule](7-maintenance/page-6.md)
