@@ -18,5 +18,6 @@ layout:
     visible: true
 ---
 
-# About
+# 1.2 / About
 
+Hey about&#x20;
