@@ -86,7 +86,7 @@ layout:
 * Fairy circle rug in correct position
 * Lighting and sound levels appropriate
 * MagLock function
-* Wall-mounted iPads responding
+* Turn ON- Tower TV
 
 ***
 
