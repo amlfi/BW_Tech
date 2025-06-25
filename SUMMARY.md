@@ -3,7 +3,7 @@
 ## 1 / Intro
 
 * [1.1 / Welcome](README.md)
-* [1.2 / About](1-intro/about.md)
+* [1.2 / Using Tech Wiki](1-intro/about.md)
 * [1.3 / Outline](1-intro/outline.md)
 
 ## 2 / Venue
