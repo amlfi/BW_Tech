@@ -20,13 +20,14 @@
 
 * [3.1 / Venue Opening Procedures](3-day-to-day/page-2.md)
 * [3.2 / Pre-show Technical Checks](3-day-to-day/page-2-1.md)
-* [3.3 / Post-show Protocols](3-day-to-day/page-2-2.md)
+* [3.3 / Post-show Protocols](3-day-to-day/page-2-2/README.md)
+  * [3.3.1 / Rehearsals](3-day-to-day/page-2-2/3.3.1-rehearsals.md)
 * [3.4 / Venue Closing Procedures](3-day-to-day/page-2-3.md)
 * [3.5 / Technical Startup/Shutdown Checklists](3-day-to-day/page-2-4.md)
 
 ## 4 / The Show
 
-* [4.1 / Normal Show Operation](4-the-show/page-3/README.md)
+* [4.1 / Regular Show Operation](4-the-show/page-3/README.md)
   * [4.1.1 / Typical Show Rundown](4-the-show/page-3/4.1.1-typical-show-rundown.md)
   * [4.1.2 / Technical Positions During Shows](4-the-show/page-3/4.1.2-technical-positions-during-shows.md)
   * [4.1.3 / Control Interfaces](4-the-show/page-3/4.1.3-control-interfaces.md)

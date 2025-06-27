@@ -3,7 +3,7 @@ description: >-
   Details tasks completed after each show, including system resets, notes
   logging, and issue reporting.
 icon: calendar-lines-pen
-cover: ../.gitbook/assets/476443859_1858955741585208_3064272690066424631_n.jpg
+cover: ../../.gitbook/assets/476443859_1858955741585208_3064272690066424631_n.jpg
 coverY: -32
 layout:
   cover:
