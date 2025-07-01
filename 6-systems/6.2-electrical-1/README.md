@@ -25,3 +25,9 @@ layout:
 
 # 6.3 / Lighting
 
+Our lighting system is run off an **ETC (EOS)** network. The show is broken down into each room having it's own cue stack and triggered via OSC commands from the show control system (**Alcorn McBride**) in each rooms sequence.
+
+Throughout the exhibition we have multiple Luminex nodes and splitters which is connected to the lighting network across the venue wide infrastructure. The Luminex nodes come in 1,4 and 12 way systems.
+
+All lighting at Bluey's world is LED to keep maintenance and heat down and longevity up.
+
