@@ -35,15 +35,19 @@ layout:
     * `CH4`: Tech / Experience
 * **Distros:**
   * Located in rack at far end of room
-  * Switch **ON all breakers** on **all 3 distros**
+  * Switch **ON all breakers** on **all x3 distros**
 * **Work Lighting:**
-  * Via **Show Control OPS Panel** → `Technical > Lighting`
+  * Use Showtouch tablet or touch screen mounted to wall (Alcorn McBride)&#x20;
+  * Via **Show Control OPS Panel (Version 1 Operations Centre)** → `Technical > Lighting`
   * Activate:
     * `Pav1 Work`
     * `Pav2 Work`
 * **CCTV + Show Control Panel:**
   * Turn TV ON with remote
   * Open `NX Witness` from desktop
+  * Select server- **Bluey's World NXWitness**
+  * A pre- selected layout will launch (Click on grey arrow  on left handside to open full camera and layout list)
+    * Select `Layouts` tab
     * Select `Tech Control` tab
 *   **OPS Panel Setup on Experience Screen:**
 
@@ -51,8 +55,8 @@ layout:
 
 1. Open OBS from desktop
 2. Open **OPS panel** via:
-   * `Show Touch` app **or**
-   * `Winscript` → Tools → Show Touch → Select `OPS`
+   * `Show Touch` app →&#x20;
+   * `Winscript` → Tools → Show Touch → Select `BOH View`&#x20;
 3. Confirm panel displays OBS and on NX Witness Experience screen
 4. If not displaying:
    * Open Task Manager → End `OBS.exe` → Relaunch OBS
