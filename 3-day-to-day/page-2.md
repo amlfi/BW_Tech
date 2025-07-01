@@ -37,33 +37,32 @@ layout:
   * Located in rack at far end of room
   * Switch **ON all breakers** on **all x3 distros**
 * **Work Lighting:**
-  * Use Showtouch tablet or touch screen mounted to wall (Alcorn McBride)&#x20;
-  * Screen should be on Version 1 Operations Centre **\[**&#x56;1 OPS Centre] → Hold on blank grey area for x3 seconds to open Showtouch main menu → Click on `Select Panel` → Select `Connect` (allow server to load) → Select `Next` → Select `Version 1 Operations Centre` **\[**&#x56;1 OPS Centre] **(or** appropriate panel) → Select `Next`
+  * Use Showtouch tablet or touch screen mounted to wall (Alcorn McBride screen)&#x20;
+  * Screen should be on Version 1 Operations Centre **\[**&#x56;1 OPS] If not → Click and hold on blank grey area for x3 seconds to open Showtouch main menu → Click on `Select Panel` → Select `Connect` (allow server to load) → Select `Next` → Select `Version 1 Operations Centre` **\[**&#x56;1 OPS] **(or** appropriate panel) → Select `Next`
   * Via **Show Control OPS Panel** → Select `Technical` → Select `Lighting`
   * Activate:
     * `Pav1 Work`
     * `Pav2 Work`
 * **CCTV + Show Control Panel:**
   * Collect TV remote → from black shelves upon entry (4th shelf)
+  * Turn TV ON with remote
+  * Open `NX Witness` from desktop
+  * Select server- **Bluey's World NXWitness**&#x20;
+  * A pre- selected layout will launch (Click on grey arrow `<` on left handside to open full camera and layout list)&#x20;
+    * Select `Layouts`tab
+    * Select `Tech Control` tab
 
-- Turn TV ON with remote
-- Open `NX Witness` from desktop
-- Select server- **Bluey's World NXWitness**&#x20;
-- A pre- selected layout will launch (Click on grey arrow `<` on left handside to open full camera and layout list)
-  * Select `Layouts`tab
-  * Select `Tech Control` tab
-
-*   **OPS Panel Setup on Experience Screen:**
+-   **OPS Panel Setup on Experience Screen:**
 
     **Using "Show Control" Monitor**
 
-1. Open OBS from desktop
-2. Open **OPS panel** via:
-   * `Show Touch` app &#x20;
-   * `Winscript` → Tools → Show Touch → Select `BOH View`&#x20;
-3. Confirm panel displays OBS and on NX Witness Experience screen
-4. If not displaying:
-   * Open Task Manager → End `OBS.exe` → Relaunch OBS
+    * Open OBS from desktop
+    * Open **BOH view panel** via:
+      * `Show Touch` app or
+      * `Winscript` → Tools → Show Touch → Select `BOH View`&#x20;
+- Confirm panel displays OBS screen (BOH view panel) on NXWitness Experience screen
+- If not displaying:
+  * Open Task Manager → End `OBS.exe` and `Show Touch` → Relaunch show touch and OBS → Check in **Sources** tab (bottom left hand corner)- Select `Window Capture 2` → Check in Window bar- Select `[ShowTouch.exe]:TouchViewer-Run` → resize the tab to fit screen
 
 > 🖱 **TV Mouse**: Use the mouse labeled “TV” on desk.
 
