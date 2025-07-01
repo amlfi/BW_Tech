@@ -44,7 +44,7 @@ layout:
 * **CCTV + Show Control Panel:**
   * Turn TV ON with remote
   * Open `NX Witness` from desktop
-    * Select `Experience` tab
+    * Select `Tech Control` tab
 *   **OPS Panel Setup on Experience Screen:**
 
     **Using "Show Control" Monitor**
