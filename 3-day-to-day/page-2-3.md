@@ -21,7 +21,7 @@ coverY: -32
 {% endcolumn %}
 
 {% column %}
-Foyer music OFF
+Press `FOYER OFF` on ShowTouch
 
 PAV 1 Work LX On (for Cleaners and evening crew)
 {% endcolumn %}
@@ -75,6 +75,8 @@ Radios on charge
 Ipads on charge
 {% endcolumn %}
 {% endcolumns %}
+
+***
 
 ## 🏛 Pavilion 2
 
@@ -131,6 +133,8 @@ F+B Office light switch OFF
 Turn off Distro breakers labelled ON/OFF
 
 </details>
+
+***
 
 ## 🏛 Back of House (Pavilion 1)
 
