@@ -17,7 +17,7 @@ The venue is composed of three distinct structures: Pavilion 1, Pavilion 2, and 
 
 🚪**Patron entrance to Bluey's World is via the exterior front deck.** The experience begins in **Pavilion 1**, where guests are split into two mirrored groups, each led by a gnome guide.&#x20;
 
-⏱️ Typically, sessions run every (10?) minutes.&#x20;
+⏱️ Typically, sessions run every 20 minutes.&#x20;
 
 _Note:  on quieter days, only one side of the house is utilised keeping session groups together._ &#x20;
 
@@ -44,7 +44,7 @@ Guests then pass through a tunnel into **Pavilion 2**, where they explore:
 * The Creek
 * The Dome
 
-Guests are split again for the **Meet & Greet** Photo Op with Bluey and Bingo 🐾 .
+Guests are split again for the **Meet & Greet** Photo Op with Bluey and Bingo 🐾 .&#x20;
 
 The experience concludes in the **Neighbourhood Zone**, a **non-guided** area featuring:
 
