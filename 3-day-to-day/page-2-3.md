@@ -73,6 +73,8 @@ Control Room TV OFF
 Radios on charge
 
 Ipads on charge
+
+Meeting Room TV OFF
 {% endcolumn %}
 {% endcolumns %}
 
@@ -95,6 +97,11 @@ Ipads on charge
 * Turn off breakers labelled ON/OFF
 
 - Turn off Dome LED
+- Close Resolume on Dome Computer
+
+ShowTouch
+
+* Press All Maglocks OFF
 
 </details>
 
