@@ -2,20 +2,6 @@
 icon: hand-wave
 cover: .gitbook/assets/BlueysWorld_KeyArt_BG_Render_Extended.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 1.1 / Welcome

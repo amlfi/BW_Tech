@@ -6,20 +6,6 @@ description: >-
 icon: face-smile-relaxed
 cover: ../../.gitbook/assets/Bluey-S2E28-Movies-022.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 4.2 / Sensory Show Operation

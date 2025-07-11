@@ -27,7 +27,7 @@
 
 ## 4 / The Show
 
-* [4.1 / Regular Show Operation](4-the-show/page-3/README.md)
+* [4.1 / Normal Show Operation](4-the-show/page-3/README.md)
   * [4.1.1 / Typical Show Rundown](4-the-show/page-3/4.1.1-typical-show-rundown.md)
   * [4.1.2 / Technical Positions During Shows](4-the-show/page-3/4.1.2-technical-positions-during-shows.md)
   * [4.1.3 / Control Interfaces](4-the-show/page-3/4.1.3-control-interfaces.md)

@@ -64,17 +64,17 @@ Turn off all breakers labelled ON/OFF
 {% endcolumn %}
 
 {% column %}
-Control Room SkyCyc Breakers ALL OFF
+Control Room SkyCyc Breakers **ALL OFF**
 
-Hallway light switch OFF
+Hallway light switch **OFF**
 
-Control Room TV OFF
+Control Room TV **OFF**
 
 Radios on charge
 
 Ipads on charge
 
-Meeting Room TV OFF
+Meeting Room TV **OFF**
 {% endcolumn %}
 {% endcolumns %}
 
@@ -129,7 +129,7 @@ Turn off SkyCyc Bays 1&2 (Bottom Distro, Breakers 1-5)
 
 Turn off Distro breakers labelled ON/OFF
 
-F+B Office light switch OFF
+F+B Office light switch **OFF**
 
 </details>
 
@@ -155,9 +155,13 @@ Turn off Aggreko Distro breaker 1 (labelled TREE PWR)
 
 Tech Macbook on charge
 
-Tech Office work lights OFF
+Turn off TV using Kogan remote
 
-Tech Office light switch OFF
+Tech Office work lights **OFF**
+
+Tech Office light switch **OFF** (next to door)
+
+**CLOSE** Tech Office door
 
 </details>
 
