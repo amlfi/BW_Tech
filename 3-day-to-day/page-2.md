@@ -61,15 +61,25 @@ coverY: -32
 **Distros:**\
 Turn ON all breakers
 
-| Area                 | Elements Powered                                                                                                                                                                                                      | Breaker Location |
-| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| **Entrance**         | Sky Cyc, LX boxes x4, Porch Light, Go photo                                                                                                                                                                           |                  |
-| **Entrance Hallway** | Niche LED strip light                                                                                                                                                                                                 |                  |
-| **Fairy Cupboards**  | Nook lights, fans, TVs _(manual power-on may be needed) Riverside -_ Use layout preset: `Fairy Cupboard Riv`                                                                                                          |                  |
-| **Living Rooms**     | LX boxes and TVs                                                                                                                                                                                                      |                  |
-| **Riv Cubby**        | Bottom distro in Riv Living Room Nook                                                                                                                                                                                 |                  |
-| **Mac Cubby**        | Bottom distro of Cubby Nook                                                                                                                                                                                           |                  |
-| **Chattermax**       | <p>Breaker 1 on Aggreko distro powers LED dance floor </p><ul><li><strong>Control Room:</strong> Bottom shelf unit at entry</li></ul><ul><li><strong>Cubby Nook:</strong> Top of 2nd rack, far-right corner</li></ul> |                  |
+<table><thead><tr><th>Area</th><th width="237">Elements Powered</th><th>Breaker Location</th></tr></thead><tbody><tr><td><strong>Entrance</strong></td><td>Sky Cyc, LX boxes x4, Porch Light, Go photo (Note: Turn on Gophoto tower manually- refer to Gophoto start up procedure)</td><td>Fairy Cupbaords (MacArthur side + River side) </td></tr><tr><td><strong>Entrance Hallway</strong></td><td>Niche LED strip light (Note: Double check the motion sensors are activating by walking past)</td><td>Living room Distro (Macside)</td></tr><tr><td><strong>Fairy Cupboards</strong></td><td>Nook lights, fans, TVs <em>(Note: Double check Fairy Cupboard TVs- manual power-on and NXWitness troubleshooting may be needed- see below)</em> </td><td>Fairy Cupboard Distro (MacArthur side + River side) </td></tr><tr><td><strong>Living Rooms</strong></td><td>LX boxes and TVs (Note: After the breakers are on turn on the TVs with remote before continuing to next room, check prop TV by using prop remote- ch1,3,4,5- then turn it back to black- ch2)</td><td>Living Room Distro (MacArthur side + River side) </td></tr><tr><td><strong>Riv Cubby</strong></td><td>All Rivside Cubby- LX Boxes, Penguins, dining area, gnome party, TVs and red buttons (Note: After breakers are on turn on the TVs with remote before continuing to next room)</td><td>Bottom Distro Riverside Living room Nook</td></tr><tr><td><strong>Mac Cubby</strong></td><td>All Macside Cubby- LX Boxes, Penguins, dining area, gnome party, TVs  and red buttons (Note: After breakers are on turn on the TVs with remote before continuing to next room)</td><td>Bottom Distro Cubby Nook</td></tr><tr><td><strong>Chattermax</strong></td><td>LED dance floor </td><td><p>Breaker 1 on Aggreko distros-</p><ul><li><strong>Control Room:</strong> Bottom shelf unit at entry</li></ul><ul><li><strong>Cubby Nook:</strong> Top of 2nd rack, far-right corner</li></ul></td></tr><tr><td><strong>Playroom</strong></td><td></td><td></td></tr><tr><td><strong>Blueys Kitchen</strong></td><td></td><td></td></tr></tbody></table>
+
+*   **🔧 Troubleshooting NXWitness Fairy cupboard:**
+
+    * _NXWitness Riverside -_ Click on desktop shortcut 'NxWitness- Client 6.0.3.4'
+      * Click lefthand side arrow `<`, Select  `Layers`, in the dropdown menu select  `Fairy Cupboard Riv`
+      * Click on lefthand side arrow `<` to minimise menu (the top arrow `<` can also be clicked on to minimise the tab menu), the TV is now ready for experience
+
+
+
+    <div align="left"><figure><img src="../.gitbook/assets/Riverside-fairycupboardnxwitness (1).png" alt="" width="189"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Riverside-fairycupboardnxwitness2.png" alt="" width="189"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Riverside-fairycupboardnxwitness3 (3).png" alt="" width="190"><figcaption></figcaption></figure></div>
+
+
+
+    * _NxWitness Macside_ - Click on desktop shortcut 'NxWitness'
+      * Click lefthand side arrow `<`, Select  `Layers`, in the dropdown menu select  `Fairy Cupboard Mac`
+      * Click on lefthand side arrow `<` to minimise menu (the top arrow `<` can also be clicked on to minimise the tab menu), the TV is now ready for experience
+
+<div align="left"><figure><img src="../.gitbook/assets/Macside-fairycupboardnxwitness (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Macside-fairycupboardnxwitness2 (1).png" alt="" width="189"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Macside-fairycupboardnxwitness3 (1).png" alt="" width="190"><figcaption></figcaption></figure></div>
 
 </details>
 
