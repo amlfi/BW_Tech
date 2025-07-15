@@ -15,21 +15,21 @@ coverY: -32
 
 <summary>🎛️ 1. Control Room</summary>
 
-* **Radios:**
-  * Switch ON:
+* 📻 **Radios:**
+  * Switch ON:&#x20;
     * `CH2`: FOH / Box Office
     * `CH4`: Tech / Experience
-* **Distros:**
+* **🪩 Distros:**
   * Located in rack at far end of room
   * Switch **ON all breakers** on **all x3 distros**
-* **Work Lighting:**
+* **💡Work Lighting:**
   * Use Showtouch tablet or touch screen mounted to wall (Alcorn McBride screen)&#x20;
   * Screen should be on Version 1 Operations Centre **\[**&#x56;1 OPS] If not → Click and hold on blank grey area for x3 seconds to open Showtouch main menu → Click on `Select Panel` → Select `Connect` (allow server to load) → Select `Next` → Select `Version 1 Operations Centre` **\[**&#x56;1 OPS] **(or** appropriate panel) → Select `Next`
   * Via **Show Control OPS Panel** → Select `Technical` → Select `Lighting`
   * Activate:
     * `Pav1 Work`
     * `Pav2 Work`
-* **CCTV + Show Control Panel:**
+* **📹 CCTV + Show Control Panel:**
   * Collect TV remote → from black shelves upon entry (4th shelf)
   * Turn TV ON with remote
   * Open `NX Witness` from desktop
@@ -38,7 +38,7 @@ coverY: -32
     * Select `Layouts`tab
     * Select `Tech Control` tab
 
--   **OPS Panel Setup on Experience Screen:**
+-   &#x20;**🖥️ OPS Panel Setup on Experience Screen:**
 
     **Using "Show Control" Monitor**
 
@@ -56,22 +56,20 @@ coverY: -32
 
 <details>
 
-<summary>🧚‍♀️ 2. Cubby Nook, Fairy Cupboards, Living Room Nooks</summary>
+<summary>🧚‍♀️ 2. Cubby Nook, Fairy Cupboards (MacArthur + Riverside), Living Room Nooks (MacArthur + Riverside)</summary>
 
 **Distros:**\
 Turn ON all breakers
 
-
-
-| Area                 | Elements Powered                                                                                                                                                                                                      |
-| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Entrance**         | Sky Cyc, LX boxes, porch light, go photo                                                                                                                                                                              |
-| **Entrance Hallway** | Niche LED strip light                                                                                                                                                                                                 |
-| **Fairy Cupboards**  | Nook lights, fans, TVs _(manual power-on may be needed) Riverside -_ Use layout preset: `Fairy Cupboard Riv`                                                                                                          |
-| **Living Rooms**     | LX boxes and TVs                                                                                                                                                                                                      |
-| **Riv Cubby**        | Bottom distro in Riv Living Room Nook                                                                                                                                                                                 |
-| **Mac Cubby**        | Bottom distro of Cub Nook                                                                                                                                                                                             |
-| **Chattermax**       | <p>Breaker 1 on Aggreko distro powers LED dance floor </p><ul><li><strong>Control Room:</strong> Bottom shelf unit at entry</li></ul><ul><li><strong>Cubby Nook:</strong> Top of 2nd rack, far-right corner</li></ul> |
+| Area                 | Elements Powered                                                                                                                                                                                                      | Breaker Location |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| **Entrance**         | Sky Cyc, LX boxes x4, Porch Light, Go photo                                                                                                                                                                           |                  |
+| **Entrance Hallway** | Niche LED strip light                                                                                                                                                                                                 |                  |
+| **Fairy Cupboards**  | Nook lights, fans, TVs _(manual power-on may be needed) Riverside -_ Use layout preset: `Fairy Cupboard Riv`                                                                                                          |                  |
+| **Living Rooms**     | LX boxes and TVs                                                                                                                                                                                                      |                  |
+| **Riv Cubby**        | Bottom distro in Riv Living Room Nook                                                                                                                                                                                 |                  |
+| **Mac Cubby**        | Bottom distro of Cubby Nook                                                                                                                                                                                           |                  |
+| **Chattermax**       | <p>Breaker 1 on Aggreko distro powers LED dance floor </p><ul><li><strong>Control Room:</strong> Bottom shelf unit at entry</li></ul><ul><li><strong>Cubby Nook:</strong> Top of 2nd rack, far-right corner</li></ul> |                  |
 
 </details>
 
