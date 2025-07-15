@@ -151,7 +151,7 @@ Turn off Distro breakers labelled ON/OFF
 
 Turn off Distro Breakers labelled ON/OFF
 
-Turn off Aggreko Distro breaker 1 (labelled TREE PWR)
+Turn off Backyard Tree Power & Walls Distro breakers 1-6 (Distro is lying on its side)
 
 Tech Macbook on charge
 
