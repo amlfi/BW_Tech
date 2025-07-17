@@ -267,6 +267,12 @@
   * [6.12.3 / Operation](6.12-3d-printing/6.12.3-operation.md)
   * [6.12.4 / Software](6.12-3d-printing/6.12.4-software.md)
   * [6.12.5 / Troubleshooting](6.12-3d-printing/6.12.5-troubleshooting.md)
+* [6.13 Interactive Installations ](6.13-interactive-installations/README.md)
+  * [6.13.1 / Architecture](6.13-interactive-installations/6.13.1-architecture.md)
+  * [6.13.2 / Inventory](6.13-interactive-installations/6.13.2-inventory.md)
+  * [6.13.3 / Operation](6.13-interactive-installations/6.13.3-operation.md)
+  * [6.13.4 / Software](6.13-interactive-installations/6.13.4-software.md)
+  * [6.13.5 / Troubleshooting](6.13-interactive-installations/6.13.5-troubleshooting.md)
 
 ## 7 / Maintenance
 
