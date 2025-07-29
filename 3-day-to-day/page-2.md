@@ -295,9 +295,10 @@ Turn ON if not already
   * &#x20;**Creek work lights:** Dome Nook distro  → `Work LX`
   * **Meet & Greet work lights:** Merch Nook: Rack distro → `Work LX`
 
-#### **Foyer & Playground Audio:**
+#### **Experience Audio:**
 
-* Must be **ON** before doors open (how is this turned on/triggered?)
+* Must be **ON** before doors open → `Foyer ON` → `Playground ON`
+* Start the audio loops in Hallway, Living Room, Cubby, Bedroom → `Start of Day`
 
 #### **Comms:**
 
