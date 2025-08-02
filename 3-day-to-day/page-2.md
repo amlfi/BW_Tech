@@ -24,11 +24,17 @@ coverY: -32
   * Switch **ON all breakers** on **all x3 distros**
 * **💡Work Lighting:**
   * Use Showtouch tablet or touch screen mounted to wall (Alcorn McBride screen)&#x20;
-  * Screen should be on Version 1 Operations Centre **\[**&#x56;1 OPS] If not → Click and hold on blank grey area for x3 seconds to open Showtouch main menu → Click on `Select Panel` → Select `Connect` (allow server to load) → Select `Next` → Select `Version 1 Operations Centre` **\[**&#x56;1 OPS] **(or** appropriate panel) → Select `Next`
+  * Screen should be on _Version 2 Operations Centre_ _(Version 1 Operations not longer in use_)  **\[**&#x56;2OPS] If not → Click and hold on blank grey area for x3 seconds to open Showtouch main menu → Click on `Select Panel` → Select `Connect` (allow server to load) → Select `Next` → Select `Version 2 Operations Centre` **\[**&#x56;2 OPS] **(or** appropriate panel) → Select `Next`
   * Via **Show Control OPS Panel** → Select `Technical` → Select `Lighting`
-  * Activate:
-    * `Pav1 Work`
-    * `Pav2 Work`
+  *   Activate:
+
+      * `Pav1 Work`
+      * `Pav2 Work`
+      *
+
+
+
+
 * **📹 CCTV + Show Control Panel:**
   * Collect TV remote → from black shelves upon entry (4th shelf)
   * Turn TV ON with remote
