@@ -16,9 +16,9 @@ coverY: -32
 <summary>🎛️ 1. Control Room</summary>
 
 * 📻 **Radios:**
-  * Switch ON:&#x20;
+  * Switch ON:  (CHECK Channel is SET)
     * `CH2`: FOH / Box Office
-    * `CH4`: Tech / Experience
+    * `CH4`: Tech / Experience&#x20;
 * **🪩 Distros:**
   * Located in rack at far end of room
   * Switch **ON all breakers** on **all x3 distros**
@@ -30,9 +30,6 @@ coverY: -32
 
       * `Pav1 Work`
       * `Pav2 Work`
-      *
-
-
 
 
 * **📹 CCTV + Show Control Panel:**
