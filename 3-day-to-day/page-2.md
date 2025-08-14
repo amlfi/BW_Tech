@@ -290,7 +290,7 @@ Turn ON if not already
 
 <summary>🔚 Final Pre-Show Checks</summary>
 
-**Turn OFF highbay work Lights before first public show** ⚠️&#x20;
+**Turn OFF high bay work Lights before first public show** ⚠️&#x20;
 
 * **Pavilion 1:**&#x20;
   * First outside distro, left of Riverside emergency exit doors: Breaker `6`
@@ -301,12 +301,16 @@ Turn ON if not already
 #### **Experience Audio:**
 
 * Must be **ON** before doors open → `Foyer ON` → `Playground ON`
-* Start the audio loops in Hallway, Living Room, Cubby, Bedroom → `Start of Day`
+* Start the audio loops in Hallway, Living Room, Cubby, Bedroom → `Start of Day`&#x20;
 
 #### **Comms:**
 
 * Notify **Experience + FOH on `Ch.4`** when Tech is ready
   * Alert team if show needs temporary hold due to technical issue
+
+Venue lights - Show ready-&#x20;
+
+* Verify that the Show touch PAV 1 & PAV 2- check lights are in show mode.&#x20;
 
 </details>
 
