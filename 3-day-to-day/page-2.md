@@ -308,9 +308,10 @@ Turn ON if not already
 * Notify **Experience + FOH on `Ch.4`** when Tech is ready
   * Alert team if show needs temporary hold due to technical issue
 
-Venue lights - Show ready-&#x20;
+Venue lights - Show ready
 
-* Verify that the Show touch PAV 1 & PAV 2- check lights are in show mode.&#x20;
+* Verify with Show touch- PAV 1 & PAV 2- check lights show mode. &#x20;
+* CKEEK-MEET & GREET ENTRY & HALL WAY.&#x20;
 
 </details>
 
