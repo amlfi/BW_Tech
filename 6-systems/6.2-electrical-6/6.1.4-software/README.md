@@ -1,17 +1,149 @@
 ---
 description: >-
-  Outlines any programming tools or monitoring platforms used for radio
-  configuration, channel management, or diagnostics.
+  Covers media server platforms and playback tools used for content delivery,
+  cue triggering, and show integration.
 icon: browsers
 cover: >-
-  https://images.unsplash.com/photo-1578054041218-5ee0003926dd?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxjb21tdW5pY2F0ZXxlbnwwfHx8fDE3NDY3NjQ3NjB8MA&ixlib=rb-4.1.0&q=85
+  https://images.unsplash.com/photo-1535016120720-40c646be5580?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxwcm9qZWN0b3J8ZW58MHx8fHwxNzQ2NzY0MzY1fDA&ixlib=rb-4.1.0&q=85
 coverY: 0
 ---
 
-# 6.8.4 / Software
+# 6.7.4 / Software
 
-{% hint style="info" %}
-Section surplus to requirements?&#x20;
+## 💻 Video Software
 
+_A reference guide to the key software systems supporting video playback and projection across Bluey's World._
 
-{% endhint %}
+***
+
+<details>
+
+<summary>🎛️ Resolume</summary>
+
+**Function**\
+Media playback and video output control.
+
+**Used For**
+
+* Driving content to projectors
+* Managing looped or triggered playback sequences
+
+**Location**
+
+* Dome PC&#x20;
+* Creek PC
+* Y PC
+
+**Operational Notes**
+
+*
+
+</details>
+
+***
+
+<details>
+
+<summary>🧭 NestMap</summary>
+
+**Function**\
+Projection mapping tool for aligning visuals across custom surfaces.
+
+**Used For**
+
+* Calibrating and blending visuals across multiple projectors
+* Displaying test patterns and mapped content
+
+**Location**
+
+* Dome PC&#x20;
+* Creek PC
+
+**Operational Notes**
+
+* Only used if recalibration is needed
+* Test pattern should be used to confirm projection accuracy pre-show
+* Use in tandem with Resolume via Spout
+
+</details>
+
+***
+
+<details>
+
+<summary>🔄 Spout</summary>
+
+**Function**\
+Real-time video sharing between applications (e.g. Resolume ➝ NestMap).
+
+**Used For**
+
+* Routing live video feed from Resolume into NestMap for mapped display
+
+**Location**
+
+* Runs in the background on the PC
+
+**Operational Notes**
+
+* Requires both Resolume and NestMap to be running
+* No user interface — verify feed is active by checking mapped projection output
+* Restart apps if video fails to display across mapped surfaces
+
+</details>
+
+<details>
+
+<summary>touch designer</summary>
+
+**1. MadMapper**
+
+* **Function**: Core media server for projection mapping and content delivery.
+* **Used For**: Spatial calibration, visual output synchronization, and show integration.
+* **Operational Notes**: Requires precise alignment with physical surfaces; ensure hardware (projectors, GPUs) is optimized for low-latency playback.
+
+**2. TouchDesigner**
+
+* **Function**: Real-time interactive content processing and cue triggering.
+* **Used For**: Translating user inputs (motion, touch) into dynamic visual responses and environmental storytelling.
+* **Operational Notes**: Scripting/network sync with MadMapper critical; test input sensitivity and logic workflows pre-show.
+
+**3. Integrated System (MadMapper + TouchDesigner)**
+
+* **Function**: Synchronized platform for immersive audience engagement.
+* **Used For**: Seamless show control, adaptive content playback, and multi-sensory storytelling.
+* **Operational Notes**: Regularly validate communication protocols; maintain redundancy for critical cues to ensure uninterrupted performance
+
+</details>
+
+<details>
+
+<summary>Madmapper</summary>
+
+#### **MadMapper**
+
+**Function**:
+
+* Core projection mapping and media server software.
+* Handles spatial calibration, content warping, and multi-projector blending.
+
+**Used For**:
+
+* **Visual Output**: Delivering and synchronizing projected content (video, images, generative visuals).
+* **Spatial Alignment**: Mapping visuals to irregular surfaces (e.g., floors, sculptures).
+* **Show Integration**: Syncing with external tools (e.g., TouchDesigner) for cue-based playback and real-time adjustments.
+
+**Operational Notes**:
+
+* **Calibration**: Always perform surface calibration _after_ physical installation of projectors. Use grid/alignment tools for precision.
+* **Hardware**: Ensure GPUs meet MadMapper’s requirements for resolution and refresh rates (test with stress loads pre-show).
+* **Network Sync**: Use Syphon/NDI or OSC protocols for seamless communication with TouchDesigner or other control systems.
+
+</details>
+
+📝 **General Notes**
+
+* Software must be started in the correct order: **Resolume → NestMap**
+* Confirm projector power is ON before launching any applications
+
+***

@@ -3,9 +3,53 @@ description: >-
   Core networking software for managing digital routing and device configuration
   throughout Bluey's World.
 cover: >-
-  https://images.unsplash.com/photo-1578054041218-5ee0003926dd?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxjb21tdW5pY2F0ZXxlbnwwfHx8fDE3NDY3NjQ3NjB8MA&ixlib=rb-4.1.0&q=85
+  https://images.unsplash.com/photo-1535016120720-40c646be5580?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxwcm9qZWN0b3J8ZW58MHx8fHwxNzQ2NzY0MzY1fDA&ixlib=rb-4.1.0&q=85
 coverY: 0
 ---
 
-# 6.8.4.1 /
+# 6.7.4.1 / Resolume
 
+### BELOW IS AN EXAMPLE, PLEASE CORRECT WHERE APPROPRIATE -MM
+
+### 🧰 Pre-Startup Checks
+
+* ✅ Confirm **Dome PC** is powered on
+* ✅ Confirm **projectors are powered ON**
+* ✅ Confirm **audio and video outputs** are physically connected
+* ✅ Confirm **Spout** service is ready (auto-runs in background)
+
+***
+
+### 🚀 Start-Up Steps
+
+1. **Log into the Dome PC** using the designated show account
+2. **Open Resolume Arena** via desktop shortcut or Start Menu
+3. Wait for interface and decks to fully load
+4. Confirm **correct composition** is loaded
+   * e.g., `BlueysWorld_MainShow`
+5. Check **output preview** window is visible
+6. Open **Advanced** panel to verify correct mapping is active
+7. Confirm **output routing to projectors** via Spout (if applicable)
+
+***
+
+### 🔍 Visual Checkpoints
+
+* Projection displays full frame from Resolume
+* No error dialogs or missing media
+* Output routed to correct displays/projectors
+* Timeline/media layers showing expected state
+
+***
+
+### 💡 Notes
+
+* Resolume must be started **before NestMap** to allow proper Spout feed
+* Restart application if projectors do not receive output
+* Keep Dome PC connected to power at all times during operation
+
+***
+
+📎 For detailed show config or troubleshooting steps, see:\
+👉 Common Tasks\
+👉 Troubleshooting

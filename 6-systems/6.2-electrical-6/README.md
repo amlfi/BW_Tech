@@ -1,12 +1,12 @@
 ---
 description: >-
-  Reliable comms keep teams connected. This section covers radio channels,
-  distribution, charging stations, and usage protocols.
-icon: walkie-talkie
+  Projectors deliver key visual elements across the experience. This section
+  covers projection systems, signal flow, content playback, and alignment tools.
+icon: projector
 cover: >-
-  https://images.unsplash.com/photo-1578054041218-5ee0003926dd?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxjb21tdW5pY2F0ZXxlbnwwfHx8fDE3NDY3NjQ3NjB8MA&ixlib=rb-4.1.0&q=85
+  https://images.unsplash.com/photo-1535016120720-40c646be5580?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxwcm9qZWN0b3J8ZW58MHx8fHwxNzQ2NzY0MzY1fDA&ixlib=rb-4.1.0&q=85
 coverY: 0
 ---
 
-# 6.8 / Comms
+# 6.7 / Video
 

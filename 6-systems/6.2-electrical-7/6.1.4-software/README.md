@@ -1,12 +1,17 @@
 ---
 description: >-
-  Covers the video management system (VMS) used for live viewing, playback and
-  system alerts.
+  Outlines any programming tools or monitoring platforms used for radio
+  configuration, channel management, or diagnostics.
 icon: browsers
 cover: >-
-  https://images.unsplash.com/photo-1563920443079-783e5c786b83?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxjY3R2fGVufDB8fHx8MTc0Njc2NTE2MHww&ixlib=rb-4.1.0&q=85
+  https://images.unsplash.com/photo-1578054041218-5ee0003926dd?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxjb21tdW5pY2F0ZXxlbnwwfHx8fDE3NDY3NjQ3NjB8MA&ixlib=rb-4.1.0&q=85
 coverY: 0
 ---
 
-# 6.9.4 / Software
+# 6.8.4 / Software
 
+{% hint style="info" %}
+Section surplus to requirements?&#x20;
+
+
+{% endhint %}

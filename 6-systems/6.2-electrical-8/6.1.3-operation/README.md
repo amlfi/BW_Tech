@@ -1,12 +1,12 @@
 ---
 description: >-
-  Outlines crew responsibilities during emergencies, including alarm triggers,
-  PA overrides, and evacuation coordination.
+  Details daily monitoring routines, footage access protocols, and
+  responsibilities for recording and incident review.
 icon: user-helmet-safety
 cover: >-
-  https://images.unsplash.com/photo-1561715608-5659baeccfb4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxlbWVyZ2VuY3klMjBleGl0fGVufDB8fHx8MTc0Njc2NjQ2M3ww&ixlib=rb-4.1.0&q=85
+  https://images.unsplash.com/photo-1563920443079-783e5c786b83?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxjY3R2fGVufDB8fHx8MTc0Njc2NTE2MHww&ixlib=rb-4.1.0&q=85
 coverY: 0
 ---
 
-# 6.10.3 / Operation
+# 6.9.3 / Operation
 

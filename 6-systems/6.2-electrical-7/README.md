@@ -1,12 +1,12 @@
 ---
 description: >-
-  CCTV systems support venue operations and saftey. This section outlines camera
-  locations, recording systems, and access protocols.
-icon: camera-cctv
+  Reliable comms keep teams connected. This section covers radio channels,
+  distribution, charging stations, and usage protocols.
+icon: walkie-talkie
 cover: >-
-  https://images.unsplash.com/photo-1563920443079-783e5c786b83?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxjY3R2fGVufDB8fHx8MTc0Njc2NTE2MHww&ixlib=rb-4.1.0&q=85
-coverY: -98
+  https://images.unsplash.com/photo-1578054041218-5ee0003926dd?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxjb21tdW5pY2F0ZXxlbnwwfHx8fDE3NDY3NjQ3NjB8MA&ixlib=rb-4.1.0&q=85
+coverY: 0
 ---
 
-# 6.9 / Security
+# 6.8 / Comms
 

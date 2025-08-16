@@ -1,12 +1,18 @@
 ---
 description: >-
-  Projectors deliver key visual elements across the experience. This section
-  covers projection systems, signal flow, content playback, and alignment tools.
-icon: projector
+  WinScript is the backbone of Alcorn McBride’s show control ecosystem, enabling
+  scalable, real-time automation for complex attractions. Its cross-platform
+  flexibility, backward compatibility, and robus
+icon: arrow-progress
 cover: >-
-  https://images.unsplash.com/photo-1535016120720-40c646be5580?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxwcm9qZWN0b3J8ZW58MHx8fHwxNzQ2NzY0MzY1fDA&ixlib=rb-4.1.0&q=85
+  https://images.unsplash.com/photo-1607292803026-3b9d9b3d0fe7?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxyZW1vdGUlMjBjb250cm9sJTIwaXBhZHxlbnwwfHx8fDE3NDY5MjM3NjN8MA&ixlib=rb-4.1.0&q=85
 coverY: 0
 ---
 
-# 6.7 / Video
+# 6.6 / Win Script
 
+## How to launch
+
+## How to Save
+
+## How to Connect Live
