@@ -288,6 +288,29 @@ Turn ON if not already
 
 <details>
 
+<summary>🎤 Mic Test</summary>
+
+Test all 4 microphone transmitters before the Stage Manager arrives.
+
+* Take a headset microphone and all 4 transmitters with fresh batteries, and an ipad and head to the front of the house.
+
+How to test the microphones:
+
+* Starting with the Red 1 transmitter, plug the headset microphone into the transmitter and hold the power button to turn it on.
+* On the ipad, press Mics > Red to ensure Red starts first.
+* At the front door of the house, press the button on the left as you face the foyer. Walk down to the Macarthur side garden beds and speak to test that both speakers are working.
+* On the ipad, press Mics > Blue to change to Blue mic.
+* Turn off the Red 1 transmitter to unplug the headset, then plug into Blue 1 and turn it on. The sequence will still be playing and should be outputting the Blue mic's audio to speakers now.
+* Move to the Riverside garden beds and repeat the same process for the Red 2 + Blue 2 mics while the current sequence continues to play.
+
+Turn off all mics and return them to the Control Room once they are show ready.
+
+When the Stage Manager arrives, confirm with them that the microphones have been tested and are ready to go. They will take care of putting headset microphones on the actors when they arrive and distributing transmitter packs.
+
+</details>
+
+<details>
+
 <summary>🔚 Final Pre-Show Checks</summary>
 
 **Turn OFF high bay work Lights before first public show** ⚠️&#x20;
@@ -311,7 +334,7 @@ Turn ON if not already
 Venue lights - Show ready
 
 * Verify with Show touch- PAV 1 & PAV 2- check lights show mode. &#x20;
-* CKEEK-MEET & GREET ENTRY & HALL WAY.&#x20;
+* CREEK-MEET & GREET ENTRY & HALL WAY.&#x20;
 
 </details>
 
