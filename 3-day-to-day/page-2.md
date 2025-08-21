@@ -15,33 +15,46 @@ coverY: -32
 
 <summary>🎛️ 1. Control Room</summary>
 
+*
 * 📻 **Radios:**
   * Switch ON:  (CHECK Channel is SET)
     * `CH2`: FOH / Box Office
     * `CH4`: Tech / Experience&#x20;
 * **🪩 Distros:**
-  * Located in rack at far end of room
-  * Switch **ON all breakers** on **all x3 distros**
+  * Located in rack at far end of room.&#x20;
+  * Switch **ON all breakers** on **all x3 distros.**&#x20;
 * **💡Work Lighting:**
   * Use Showtouch tablet or touch screen mounted to wall (Alcorn McBride screen)&#x20;
-  * Screen should be on _Version 2 Operations Centre_ _(Version 1 Operations not longer in use_)  **\[**&#x56;2OPS] If not → Click and hold on blank grey area for x3 seconds to open Showtouch main menu → Click on `Select Panel` → Select `Connect` (allow server to load) → Select `Next` → Select `Version 2 Operations Centre` **\[**&#x56;2 OPS] **(or** appropriate panel) → Select `Next`
-  * Via **Show Control OPS Panel** → Select `Technical` → Select `Lighting`
-  *   Activate:
+  * Screen should be on _Version 2 Operations Centre_ _(Version 1 Operations not longer in use_)  **\[**&#x56;2OPS] If not → Click and hold on blank grey area for x3 seconds to open Showtouch main menu → Click on `Select Panel` → Select `Connect` (allow server to load) → Select `Next` → Select `Version 2 Operations Centre` **\[**&#x56;2 OPS] **(or** appropriate&#x20;
+  * panel) → Select `Next` ( <mark style="color:red;">see pic for step by step</mark> )&#x20;
 
-      * `Pav1 Work`
-      * `Pav2 Work`
+<div><figure><img src="../.gitbook/assets/Show Touch HOW TO LOAD  2 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Show Touch HOW TO LOAD  1 (1).jpg" alt=""><figcaption></figcaption></figure></div>
 
+<div><figure><img src="../.gitbook/assets/Show Touch HOW TO LOAD  3 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Show Touch HOW TO LOAD  4 (1).jpg" alt=""><figcaption></figcaption></figure></div>
+
+
+
+* Via **Show Control OPS Panel** → Select `Technical` → Select `Lighting`
+* Activate:
+  * `Pav1 Work`
+  * `Pav2 Work`
+
+<div><figure><img src="../.gitbook/assets/Show touch- OPS V2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Show touch Technical.jpg" alt=""><figcaption></figcaption></figure> <figure><picture><source srcset="../.gitbook/assets/Show touch Technical LIGHTS.jpg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Show touch Technical.jpg" alt=""></picture><figcaption></figcaption></figure></div>
 
 * **📹 CCTV + Show Control Panel:**
   * Collect TV remote → from black shelves upon entry (4th shelf)
   * Turn TV ON with remote
   * Open `NX Witness` from desktop
-  * Select server- **Bluey's World NXWitness**&#x20;
+  * Select server- **Bluey's World NXWitness.**
   * A pre- selected layout will launch (Click on grey arrow `<` on left handside to open full camera and layout list)&#x20;
     * Select `Layouts`tab
-    * Select `Tech Control` tab
+    * Select `Tech Control` tab&#x20;
 
--   &#x20;**🖥️ OPS Panel Setup on Experience Screen:**
+<div><figure><img src="../.gitbook/assets/nx 1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/nx 2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/nx 3.jpg" alt=""><figcaption></figcaption></figure></div>
+
+
+
+*   &#x20;**🖥️ OPS Panel Setup on Experience Screen:**
 
     **Using "Show Control" Monitor**
 
@@ -49,9 +62,9 @@ coverY: -32
     * Open **BOH view panel** via:
       * `Show Touch` app or
       * `Winscript` → Tools → Show Touch → Select `BOH View`&#x20;
-- Confirm panel displays OBS screen (BOH view panel) on NXWitness Experience screen
-- If not displaying:
-  * Open Task Manager → End `OBS.exe` and `Show Touch` → Relaunch show touch and OBS → Check in **Sources** tab (bottom left hand corner)- Select `Window Capture 2` → Check in Window bar- Select `[ShowTouch.exe]:TouchViewer-Run` → resize the tab to fit screen
+* Confirm panel displays OBS screen (BOH view panel) on NXWitness Experience screen
+* If not displaying:
+  * Open Task Manager → End `OBS.exe` and `Show Touch` → Relaunch show touch and OBS → Check in **Sources** tab (bottom left hand corner)- Select `Window Capture 2` → Check in Window bar- Select `[ShowTouch.exe]:TouchViewer-Run` → resize the tab to fit screen.
 
 > 🖱 **TV Mouse**: Use the mouse labeled “TV” on desk.
 
