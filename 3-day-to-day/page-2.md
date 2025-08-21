@@ -107,6 +107,7 @@ Turn ON all breakers
   * Press **Test Call**
 * On Show Touch Panel:
   * Tap **"Received"**&#x20;
+  *
 
 > 📝 _Must be completed before first show to clear messages and avoid confusion._
 
@@ -139,9 +140,7 @@ Turn ON all breakers
   * Throne Room: RHS behind panel gap around back of cubby panelling and wall
   * Prop TV: Slightly pull centre bottom-left purple panel, aim downward in gap
   * Chilli: Between panelling and wall on LHS or centre-left in porthole close to screen
-  * Toilet: LHS above and behind toilet cubby paneling
-
-🔇 Mute Chilli TV — unmute at \~8:30 AM (the audio loop is annoying)
+  * Toilet: LHS above and behind toilet cubby paneling.
 
 **🛏 Bedrooms – 1x TV each:**
 
@@ -152,7 +151,7 @@ Turn ON all breakers
 
 <details>
 
-<summary>🎥 5. Turn On All 8(?) Projectors in Chattermax</summary>
+<summary>🎥 5. Turn On All 8 Projectors in Chattermax. </summary>
 
 
 
