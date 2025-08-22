@@ -36,8 +36,8 @@ coverY: -32
 
 * Via **Show Control OPS Panel** → Select `Technical` → Select `Lighting`
 * Activate:
-  * `Pav1 Work`
-  * `Pav2 Work`
+  * <mark style="color:$info;">**Pav1 Work**</mark>
+  * <mark style="color:$info;">**Pav2 Work**</mark>
 
 <div><figure><img src="../.gitbook/assets/Show touch- OPS V2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Show touch Technical.jpg" alt=""><figcaption></figcaption></figure> <figure><picture><source srcset="../.gitbook/assets/Show touch Technical LIGHTS.jpg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Show touch Technical.jpg" alt=""></picture><figcaption></figcaption></figure></div>
 
@@ -45,8 +45,8 @@ coverY: -32
   * Collect TV remote → from black shelves upon entry (4th shelf)
   * Turn TV ON with remote
   * Open `NX Witness` from desktop
-  * Select server- **Bluey's World NXWitness.**
-  * A pre- selected layout will launch (Click on grey arrow `<` on left handside to open full camera and layout list)&#x20;
+  * Select server- **Bluey's World NX Witness.**
+  * A pre- selected layout will launch (Click on grey arrow `<` on left hand side to open full camera and layout list)&#x20;
     * Select `Layouts`tab
     * Select `Tech Control` tab&#x20;
 
@@ -62,11 +62,11 @@ coverY: -32
     * Open **BOH view panel** via:
       * `Show Touch` app or
       * `Winscript` → Tools → Show Touch → Select `BOH View`&#x20;
-* Confirm panel displays OBS screen (BOH view panel) on NXWitness Experience screen
+* Confirm panel displays OBS screen (BOH view panel) on NX Witness Experience screen
 * If not displaying:
   * Open Task Manager → End `OBS.exe` and `Show Touch` → Relaunch show touch and OBS → Check in **Sources** tab (bottom left hand corner)- Select `Window Capture 2` → Check in Window bar- Select `[ShowTouch.exe]:TouchViewer-Run` → resize the tab to fit screen.
 
-> 🖱 **TV Mouse**: Use the mouse labeled “TV” on desk.
+> 🖱 **TV Mouse**: Use the mouse labelled “TV” on desk.
 
 </details>
 
@@ -104,12 +104,15 @@ Turn ON all breakers
 <summary>🔔 3. Test Call Buttons</summary>
 
 * On **wall-mounted iPads** in each room
-  * Press **Test Call**
+  * Press iPad screen.&#x20;
+  * Test Call – Press Room/Person or Emergency.&#x20;
+
+<div><figure><img src="../.gitbook/assets/TEST ROOM 1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/TEST ROOM 2.jpg" alt=""><figcaption></figcaption></figure></div>
+
 * On Show Touch Panel:
   * Tap **"Received"**&#x20;
-  *
 
-> 📝 _Must be completed before first show to clear messages and avoid confusion._
+> 📝 _<mark style="color:orange;">Must be completed before first show to clear messages and avoid confusion.</mark>_
 
 </details>
 
@@ -153,7 +156,13 @@ Turn ON all breakers
 
 <summary>🎥 5. Turn On All 8 Projectors in Chattermax. </summary>
 
+**Projector Setup:**
 
+* There are **8 projectors** mounted on truss in the room.
+* Use the remote control to power them up.
+* The side of the projection features a green light that indicates the power is on.
+
+<mark style="color:orange;">**The projector will flash a blue light momentarily to display the Chattermax image**</mark>
 
 </details>
 
@@ -170,7 +179,7 @@ Turn ON all breakers
 <summary>📱 7. Take Items into Pavilion 2</summary>
 
 * iPad with **Show Touch OPS Panel** open
-* **Tech MacBook**
+* **Tech MacBook - For dome calibration and remote control over server**&#x20;
 
 </details>
 
