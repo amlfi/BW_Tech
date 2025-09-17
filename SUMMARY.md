@@ -74,6 +74,7 @@
       * [6.1.4.1.5 / Troubleshooting](6-systems/6.1-audio/6.1.4-software/6.1.4.1-dante/6.1.4.1.5-troubleshooting.md)
     * [6.1.4.2 / qLab](6-systems/6.1-audio/6.1.4-software/6.1.4.2-qlab.md)
   * [6.1.5 / Troubleshooting](6-systems/6.1-audio/6.1.5-troubleshooting.md)
+  * [6.1.5 / Troubleshooting](6-systems/6.1-audio/6.1.5-troubleshooting-1.md)
   * [6.1.6 / Maintenance](6-systems/6.1-audio/6.1.6-maintenance.md)
   * [6.1.7 / Documentation](6-systems/6.1-audio/6.1.7.-documentation.md)
 * [6.2 / Electrical](6-systems/6.2-electrical/README.md)
