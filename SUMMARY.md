@@ -73,7 +73,7 @@
       * [6.1.4.1.4 / Common Tasks](6-systems/6.1-audio/6.1.4-software/6.1.4.1-dante/6.1.4.1.4-common-edits.md)
       * [6.1.4.1.5 / Troubleshooting](6-systems/6.1-audio/6.1.4-software/6.1.4.1-dante/6.1.4.1.5-troubleshooting.md)
     * [6.1.4.2 / Sennheiser Software WMS](6-systems/6.1-audio/6.1.4-software/6.1.4.2-sennheiser-software-wms.md)
-  * [6.1.5 / Troubleshooting](6-systems/6.1-audio/6.1.5-troubleshooting.md)
+  * [6.1.5 / Troubleshootin](6-systems/6.1-audio/6.1.5-troubleshooting.md)
   * [6.1.5 / Troubleshooting](6-systems/6.1-audio/6.1.5-troubleshooting-1.md)
   * [6.1.6 / Maintenance](6-systems/6.1-audio/6.1.6-maintenance.md)
   * [6.1.7 / Documentation](6-systems/6.1-audio/6.1.7.-documentation.md)
