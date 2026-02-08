@@ -4,9 +4,26 @@ description: >-
   scalable, real-time automation for complex attractions. Its cross-platform
   flexibility, backward compatibility, and robus
 icon: arrow-progress
-cover: >-
-  https://images.unsplash.com/photo-1607292803026-3b9d9b3d0fe7?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxyZW1vdGUlMjBjb250cm9sJTIwaXBhZHxlbnwwfHx8fDE3NDY5MjM3NjN8MA&ixlib=rb-4.1.0&q=85
+cover: ../../.gitbook/assets/How to-Tech  (5).png
 coverY: 0
+coverHeight: 447
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 6.6 / Win Script
