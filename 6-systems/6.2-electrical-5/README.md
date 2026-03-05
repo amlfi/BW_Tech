@@ -7,23 +7,6 @@ icon: arrow-progress
 cover: ../../.gitbook/assets/How to-Tech  (5).png
 coverY: -20.09736842105262
 coverHeight: 405
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 6.6 / Win Script
