@@ -53,3 +53,8 @@ The experience concludes in the **Neighbourhood Zone**, a **non-guided** area fe
 * Café and ice cream parlour
 * Info Booth
 * **Exit** back onto the exterior deck
+*
+
+<figure><img src="../.gitbook/assets/Find Tech Wiki Pinned on the Bar of Tech Dep PCMacbook (3).png" alt=""><figcaption></figcaption></figure>
+
+#### It is strongly recommended you go through the experience before your first shift.&#x20;

@@ -18,7 +18,7 @@ As you navigate the wiki, feel free to:
 
 Your input helps ensure the wiki remains accurate, useful, and up to date for everyone.
 
-<figure><img src="../.gitbook/assets/Find Tech Wiki Pinned on the Bar of Tech Dep PCMacbook (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Find Tech Wiki Pinned on the Bar of Tech Dep PCMacbook (2).png" alt=""><figcaption></figcaption></figure>
 
 For any issues related to Tech Wiki or other department matters, please contact:
 
