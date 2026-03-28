@@ -11,19 +11,19 @@ coverY: 0
 
 Note when rebooting Audio Server 1 -launch the software is required.&#x20;
 
-<figure><img src="../../../.gitbook/assets/launch  WSM.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/launch  WSM.jpg" alt=""><figcaption></figcaption></figure>
 
 ## APP - Mac Dock - look for this Icon and match config
 
-<figure><img src="../../../.gitbook/assets/How to-Tech  (3).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/How to-Tech  (3).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Panel example.                               In Show View.
 
-<div><figure><img src="../../../.gitbook/assets/How to-Tech  (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot 2025-10-10 120625.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../../.gitbook/assets/How to-Tech  (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Screenshot 2025-10-10 120625.png" alt=""><figcaption></figcaption></figure></div>
 
 ## BACK UP PACKS.&#x20;
 
-<div><figure><img src="../../../.gitbook/assets/BACK UP BODY PACKS (1).jpg" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/BACK UP BODY PACKS FRQ.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../../.gitbook/assets/BACK UP BODY PACKS (1).jpg" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/BACK UP BODY PACKS FRQ.jpg" alt=""><figcaption></figcaption></figure></div>
 
 Back up pack- When a body pack fails- the step's are.
 
@@ -42,7 +42,7 @@ Phase 1: Access & Setup&#x20;
 1. Open WSM and connect to your networked receivers.&#x20;
 2. Go to Professional Setup > Frequency Manager.&#x20;
 
-<figure><img src="../../../.gitbook/assets/FREQ PRO SET UP P1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/FREQ PRO SET UP P1.png" alt=""><figcaption></figcaption></figure>
 
 Phase 2: Configure the Region (Crucial for Australia)&#x20;
 
@@ -50,7 +50,7 @@ Phase 2: Configure the Region (Crucial for Australia)&#x20;
 2. Choose "Australia": You must select Australia (or Australia Only/Asia) to ensure the software calculates frequencies within the legal TV band and power limits for Australia.&#x20;
 3. Note: If your gear is from a different zone (e.g., US model receivers), they may not tune to all Australian channels. The software will grey out invalid frequencies.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Pro FREQ AUS SETTING.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Pro FREQ AUS SETTING.png" alt=""><figcaption></figcaption></figure>
 
 Phase 3: Add Systems to the Coordination&#x20;
 
@@ -59,7 +59,7 @@ Phase 3: Add Systems to the Coordination&#x20;
 3. Assign Groups: If you have multiple ROOMS- WSM will list them separately. Add them one by one if they are different bands.&#x20;
 4. Click "Add": The systems will now appear in the main Frequency Manager window.&#x20;
 
-<figure><img src="../../../.gitbook/assets/PRO FREQ P2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/PRO FREQ P2.png" alt=""><figcaption></figcaption></figure>
 
 Phase 4: Scan & Coordinate&#x20;
 
@@ -72,7 +72,7 @@ Phase 4: Scan & Coordinate&#x20;
 7. Calculate Frequencies:&#x20;
 8. The software will automatically assign the cleanest frequencies to your systems, avoiding TV interference and intermodulation (interference between your own mics).&#x20;
 
-<figure><img src="../../../.gitbook/assets/PRO FREQ P3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/PRO FREQ P3.png" alt=""><figcaption></figcaption></figure>
 
 Phase 5: Deploy&#x20;
 
@@ -81,4 +81,4 @@ Phase 5: Deploy&#x20;
 3. Click "Deploy" (or "Send to Devices").&#x20;
 4. The new frequencies are sent via network to your receivers.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Pro FREQ P5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Pro FREQ P5.png" alt=""><figcaption></figcaption></figure>
