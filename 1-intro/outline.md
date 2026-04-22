@@ -8,7 +8,7 @@ coverY: 0
 
 ## Overview
 
-This document outlines the complete chapter and section structure for the Bluey's World Technical Wiki. The structure follows a logical organisation beginning with introductory materials, proceeding through venue details, daily operations and show execution, emergency procedures, and culminating with detailed technical systems documentation and reference materials.
+Outlines for the chapter and section structure.&#x20;
 
 ## Chapter Structure
 

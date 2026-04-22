@@ -11,7 +11,11 @@ coverY: 0
 
 ## Venue Introduction
 
-The venue is composed of three distinct structures: Pavilion 1, Pavilion 2, and Pavilion 3. The venue's facade encloses the external back-of-house area. Pavilion 1 connects to Pavilion 2 through an internal tunnel. Pavilion 3 remains separate, for use by staff only.&#x20;
+The venue is composed of three distinct structures: Pavilion 1, Pavilion 2, and Pavilion 3. The venue's facade encloses the external back-of-house area. Pavilion 1 connects to Pavilion 2 through an internal tunnel.&#x20;
+
+Pavilion 3 remains separate, for use by staff only.&#x20;
+
+
 
 ## Patron Experience&#x20;
 
@@ -53,7 +57,8 @@ The experience concludes in the **Neighbourhood Zone**, a **non-guided** area fe
 * Café and ice cream parlour
 * Info Booth
 * **Exit** back onto the exterior deck
-*
+
+
 
 <figure><img src="../.gitbook/assets/Find Tech Wiki Pinned on the Bar of Tech Dep PCMacbook (3).png" alt=""><figcaption></figcaption></figure>
 
