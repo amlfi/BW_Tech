@@ -13,7 +13,7 @@ coverY: 0
 
 The venue is composed of three distinct structures: Pavilion 1, Pavilion 2, and Pavilion 3. The venue's facade encloses the external back-of-house area. Pavilion 1 connects to Pavilion 2 through an internal tunnel.&#x20;
 
-Pavilion 3 remains separate, for use by staff only.&#x20;
+Pavilion 3 remains separate and consists of the laundry section, merch storage, and the scissor and fork lifts. It is for staff use only.&#x20;
 
 
 
